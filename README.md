@@ -13,7 +13,7 @@
 1. 문제해결을 즐기는
 2. 재사용성이 높고 직관적인 코드 작성에 신경쓰는
 3. 요구사항과 제약조건을 효율적으로 풀어내는데 관심이 많은
-4. 클린 코드를 끊임없이 고민하는
+4. 배운거는 무조건 써먹어봐야 직성이 풀리는는
 5. 맛있는 커피 한잔과 함께할 동료만 있다면 무엇이든 도전하는
 
 <br/>
@@ -27,18 +27,31 @@
 - 군 SW·AI 역량강화 인공지능 트랙(기본)(구름에듀, 2022.08~2022.09)
 - R3F를 이용한 인터렉티브 3D 가상환경 웹 개발 실무(한국메타버스산업협회, 2023.06)
 - V2X 통신에 대한 이해와 서비스 개발 실습(경북대학교 ICT 자동차융합연구센터, 2023.07)
-- 경북대학교 자율군집 소프트웨어 연구실 학부연구생 활동(2023.07~)
+- 경북대학교 자율군집 소프트웨어 연구실 학생연구원 활동(2023.07~)
 
 <br/>
 
 </details>
 
+
+
 <details >
 <summary> 👀  저는 이런 개발 경험이 있어요! </summary>
 
+  ### 🔫  TurtleBot : 터틀봇을 이용한 자율주행 차량 구현  [![link](https://user-images.githubusercontent.com/48382813/143898340-b7ca0e57-2c5c-4978-8987-01a0c605d0ae.png)](https://github.com/YUNSUNGWOONG/turtlebot_projects)
+
+  > ROS와 SLAM 등을 활용하여 시뮬레이션 학습과 모형 차량 학습을 수행
+  <!--
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dailyco&repo=MAFIA31&cache_seconds=86400&theme=gruvbox">
+  -->
+  
+  - 개발 기간 : 2024.02 ~
+  - 사용 언어 및 기술 : python, ROS, C++
+  <br/>
+
   ### 🔫  DonkeyCar : 동키카를 이용한 자율주행 차량 구현  [![link](https://user-images.githubusercontent.com/48382813/143898340-b7ca0e57-2c5c-4978-8987-01a0c605d0ae.png)](https://github.com/YUNSUNGWOONG/donkeycar_projects)
 
-  > 텐서플로우와 케라스를 활용하여 시뮬레이션 학습과 실제 차량 학습을 수행
+  > 텐서플로우와 케라스 등을 활용하여 시뮬레이션 학습과 모형 차량 학습을 수행
   <!--
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=dailyco&repo=MAFIA31&cache_seconds=86400&theme=gruvbox">
   -->
@@ -47,18 +60,94 @@
   - 사용 언어 및 기술 : python, turbo framework, RaspberryPi4, Linux, putty, jenkins, Jira
   <br/>
 
+  ### 🔫  S32K144 : 엘리베이터 제작 및 구현  [![link](https://user-images.githubusercontent.com/48382813/143898340-b7ca0e57-2c5c-4978-8987-01a0c605d0ae.png)](https://github.com/YUNSUNGWOONG/S32K144EVB_TermProject)
+
+  > uVision IDE를 활용하여 엘리베이터 기능 설계와 제작 및 테스트
+  <!--
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dailyco&repo=MAFIA31&cache_seconds=86400&theme=gruvbox">
+  -->
+  
+  - 개발 기간 : 2023.11 ~
+  - 사용 언어 및 기술 : C
+  <br/>
+
+  ### 🔫  Autonomous monitoring system suitable for the autonomous driving era, PCSAPS : 보행자보호시스탬   [![link](https://user-images.githubusercontent.com/48382813/143898340-b7ca0e57-2c5c-4978-8987-01a0c605d0ae.png)](https://github.com/YUNSUNGWOONG/CreativeEngineeringDesign_TermProject)
+
+  > <창의공학설계>수업에서 텀프로젝트로 제작한, 라즈베리파이와 아두이노를 활용한 PCSAPS(보행자보호시스템) 제작 및 구현
+  <!--
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dailyco&repo=MAFIA31&cache_seconds=86400&theme=gruvbox">
+  -->
+  
+  - 개발 기간 : 2023.11 ~ 2023.12
+  - 사용 언어 및 기술 : C, Python, OpenCV
+  <br/>
+
   ### 🥀  Knu_StudyCafe : 파이썬을 활용한 스터디카페 키오스크  [![link](https://user-images.githubusercontent.com/48382813/143898340-b7ca0e57-2c5c-4978-8987-01a0c605d0ae.png)](...)
 
-  > 학부과정<파이썬 프로글래밍>수업에서 텀프로젝트로 제작한 스터디카페 키오스크> 
+  > 학부과정<파이썬 프로글래밍>수업에서 텀프로젝트로 제작한 스터디카페 키오스크
 <!--
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=dailyco&repo=happy-ending&cache_seconds=86400&theme=gruvbox">
   -->
   
   - 개발 기간 : 2023.06 ~ 2023.07
   - 사용 언어 및 기술 : Python, tkinter
-<br/>
+  <br/>
+  
+  ### 🔫  Air Defense Control Command, Maintenance Case Management System : 방공관제사령부, 정비사례 관리체계
+
+  > '방공관제사령부(現, 미사일방어사령부) 정비사례 관리체계’를 개발하여 방공관제사령부 예하 전대, 관제부대에 대한 <br/>
+  > “레이다 고장정비 종합관리”의 행정업무를 간소화하는데 기여함 
+  <!--
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dailyco&repo=MAFIA31&cache_seconds=86400&theme=gruvbox">
+  -->
+  
+  - 개발 기간 : 2022.6 ~ 2022.11
+  - 사용 언어 및 기술 : Java8, Spring(4.3.29), tibero, jquery, tui-chart
+  <br/>
+
+  ### 🔫  Aviation Technology Research Institute, Aircraft Record Management System : 항공기술연구소, 항공기이력관리체계 (KT-100 Dis-Bonding 이력관리체계 + F-16계열 항공기 Damage Map)
+
+  > 1>KT-100 Dis-Bonding 이력관리 체계를 개발하여 선제적인 정비강화와 다빈도 기골결함에 대해 신속히 조치할 수 있도록 기여함 <br/>
+  > 2>F-16 계열 항공기 Damage Map을 개발하여 선제적인 정비강화와 다빈도 기골결함에 대해 신속히 조치할 수 있도록 기여함
+  <!--
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dailyco&repo=MAFIA31&cache_seconds=86400&theme=gruvbox">
+  -->
+  
+  - 개발 기간 : 2022.1 ~ 2022.7
+  - 사용 언어 및 기술 : Java8, Spring(4.3.29), tibero, WebGL, PdfJs, tui-chart
+  <br/>
+
+  ### 🔫  Logistics Command, Human rights level self-assessment system : 군수사령부, 인권수준자체진단체계 개발 
+
+  > 인권수준 자체진단체계를 개발하여 코로나상황에 실무자들이 인권수준을 빠르게 조사하고 체계적으로 집계하는데 기여함 
+
+  <!--
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dailyco&repo=MAFIA31&cache_seconds=86400&theme=gruvbox">
+  -->
+  
+  - 개발 기간 : 2021.6 ~ 2022.11
+  - 사용 언어 및 기술 : Java8, Spring(4.3.29), tibero, tui-chart
+  <br/>
+
+   ### 🔫  K-TCG : K-TCG 인터넷 홈페이지 유지보수 및 테스트
+
+  > K-TCG 인터넷 홈페이지를 유지보수에 기여하여 타국 항공기에 대한 선제적인 정비강화와 다빈도 기골결함에 대해 신속히 조치할 수 있도록 기여함 
+
+  <!--
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dailyco&repo=MAFIA31&cache_seconds=86400&theme=gruvbox">
+  -->
+  
+  - 유지보수 및 테스트 기간 : 2021.5 ~ 2021.6
+  - 사용 언어 및 기술 : Jquery, WireShark
+  <br/>
 </details>
 <br/>
+
+## 👨🏻‍💻 Experience
+  - ``2021.03~2022.12`` Software Engineer - ROKAF Logistics Command Convergence Systems Department (Full-time)<br/>
+  - ``2023.01~2023.04`` DIGITAL MARKETING EXECUTIVE - TalkTalkLanguage(Academy)<br/>
+  - ``2023.03~`` Kyungpook National University, Department of Electronic Engineering(bachelor's degree course)<br/>
+  - ``2023.07~`` Student researcher - Autonomous Cluster SW Research Center<br/>
 
 ## 🛠 Skills
 ### Frontend
@@ -88,8 +177,22 @@
 -->
 <br/>
 
+## 📜 Certifications
+1. 정보처리산업기사
+2. 네트워크관리사2급
+3. 행정관리사2,3급
+
+## 🖐 Blog
+<a href="https://jacksmith-c.github.io/" target="_blank"><img src="https://img.shields.io/badge/Github_Blog-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a> <br>
+<a href="https://blog.naver.com/yhon89" target="_blank"><img src="https://img.shields.io/badge/Naver(yhon89)-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"/></a> 
+<a href="https://blog.naver.com/yhon89e" target="_blank"><img src="https://img.shields.io/badge/Naver(yhon89e)-E95420?style=for-the-badge&logo=MongoDB&logoColor=white"/></a> <br> 
+<a href="https://velog.io/@2170004487z/posts" target="_blank"><img src="https://img.shields.io/badge/Velog_(2170004487z)-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a> 
+<a href="https://blex.me/@2170004487z" target="_blank"><img src="https://img.shields.io/badge/Blog_(2170004487z)-c110cc?style=for-the-badge&logo=Nuxt.js&logoColor=white"/></a> 
+<a href="https://steemit.com/@yunsungwoong" target="_blank"><img src="https://img.shields.io/badge/Steemit_(2170004487z)-33cf98?style=for-the-badge&logo=velog&logoColor=white"/></a> <br>
+<a href="https://jack-channel-python.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-f1eb6e?style=for-the-badge&logo=PYTHON&logoColor=black"/></a> <br>
+<br>
 ## 📞 Contact
-<a href="https://jacksmith-c.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a> <a href="mailto:dailyco03@gmail.com"><img src="https://img.shields.io/badge/2170004487b@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=black"/></a>
+<a href="mailto:dailyco03@gmail.com"><img src="https://img.shields.io/badge/2170004487b@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=black"/></a>
 
 [HTML5]: https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white
 [css]: https://img.shields.io/badge/css-686de0?style=for-the-badge&logo=css3&logoColor=white
