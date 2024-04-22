@@ -67,7 +67,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=dailyco&repo=MAFIA31&cache_seconds=86400&theme=gruvbox">
   -->
   
-  - 개발 기간 : 2023.11 ~
+  - 개발 기간 : 2023.11 ~ 2023.12
   - 사용 언어 및 기술 : C
   <br/>
 
@@ -84,7 +84,7 @@
 
   ### 🥀  Knu_StudyCafe : 파이썬을 활용한 스터디카페 키오스크  [![link](https://user-images.githubusercontent.com/48382813/143898340-b7ca0e57-2c5c-4978-8987-01a0c605d0ae.png)](...)
 
-  > 학부과정<파이썬 프로글래밍>수업에서 텀프로젝트로 제작한 스터디카페 키오스크
+  > 학부과정<파이썬 프로그래밍>수업에서 텀프로젝트로 제작한 스터디카페 키오스크
 <!--
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=dailyco&repo=happy-ending&cache_seconds=86400&theme=gruvbox">
   -->
