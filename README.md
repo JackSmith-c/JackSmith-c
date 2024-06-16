@@ -13,7 +13,7 @@
 1. 문제해결을 즐기는
 2. 재사용성이 높고 직관적인 코드 작성에 신경쓰는
 3. 요구사항과 제약조건을 효율적으로 풀어내는데 관심이 많은
-4. 배운거는 무조건 써먹어봐야 직성이 풀리는
+4. 배운거는 무조건 써먹어봐야 직성이 풀리는는
 5. 맛있는 커피 한잔과 함께할 동료만 있다면 무엇이든 도전하는
 
 <br/>
@@ -49,6 +49,17 @@
   - 사용 언어 및 기술 : python, ROS, C++
   <br/>
 
+### 🔫  Luminocity : 유동인구를 활용한 옥외 광고 추천 솔루션 (2024 AWS Smart City Hackathon)  [![link](https://user-images.githubusercontent.com/48382813/143898340-b7ca0e57-2c5c-4978-8987-01a0c605d0ae.png)](https://github.com/YUNSUNGWOONG/Postech_hackathon_Luminocity)
+
+  > AWS 유동인구 데이터를 활용한 옥외광고솔루션으로, 백엔드와 아키텍처 설계에 기여함.
+  <!--
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dailyco&repo=MAFIA31&cache_seconds=86400&theme=gruvbox">
+  -->
+  
+  - 개발 기간 : 2024.03 ~ 2024.03
+  - 사용 언어 및 기술 : Node.js, React, EC2, Simplify, S3 Storage
+  <br/>
+  
   ### 🔫  DonkeyCar : 동키카를 이용한 자율주행 차량 구현  [![link](https://user-images.githubusercontent.com/48382813/143898340-b7ca0e57-2c5c-4978-8987-01a0c605d0ae.png)](https://github.com/YUNSUNGWOONG/donkeycar_projects)
 
   > 텐서플로우와 케라스 등을 활용하여 시뮬레이션 학습과 모형 차량 학습을 수행
@@ -183,16 +194,18 @@
 3. 행정관리사2,3급
 
 ## 🖐 Blog
-<a href="https://jacksmith-c.github.io/" target="_blank"><img src="https://img.shields.io/badge/Github_Blog-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a> <br>
-<a href="https://blog.naver.com/yhon89" target="_blank"><img src="https://img.shields.io/badge/Naver(yhon89)-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"/></a> 
-<a href="https://blog.naver.com/yhon89e" target="_blank"><img src="https://img.shields.io/badge/Naver(yhon89e)-E95420?style=for-the-badge&logo=MongoDB&logoColor=white"/></a> <br> 
-<a href="https://velog.io/@2170004487z/posts" target="_blank"><img src="https://img.shields.io/badge/Velog_(2170004487z)-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a> 
-<a href="https://blex.me/@2170004487z" target="_blank"><img src="https://img.shields.io/badge/Blex_(2170004487z)-c110cc?style=for-the-badge&logo=Nuxt.js&logoColor=white"/></a> 
-<a href="https://steemit.com/@yunsungwoong" target="_blank"><img src="https://img.shields.io/badge/Steemit_(2170004487z)-33cf98?style=for-the-badge&logo=velog&logoColor=white"/></a> <br>
-<a href="https://jack-channel-python.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-f1eb6e?style=for-the-badge&logo=PYTHON&logoColor=black"/></a> <br>
+(아래 블럭을 누르시면 해당링크로 이동하실 수 있습니다.)<br>
+(Click on the block below to go to the link.)<br><br>
+<a href="https://jacksmith-c.github.io/" target="_blank"><img src="https://img.shields.io/badge/Github_Blog-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a> : My CodingLog <br>
+<a href="https://blog.naver.com/yhon89" target="_blank"><img src="https://img.shields.io/badge/Naver(yhon89)-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"/></a> : My Diary Blog <br> 
+<a href="https://blog.naver.com/yhon89e" target="_blank"><img src="https://img.shields.io/badge/Naver(yhon89e)-E95420?style=for-the-badge&logo=MongoDB&logoColor=white"/></a> : My Learning Blog <br> 
+<a href="https://velog.io/@2170004487z/posts" target="_blank"><img src="https://img.shields.io/badge/Velog_(2170004487z)-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a> : My Embedded Blog <br>
+<a href="https://blex.me/@2170004487z" target="_blank"><img src="https://img.shields.io/badge/Blex_(2170004487z)-c110cc?style=for-the-badge&logo=Nuxt.js&logoColor=white"/></a> : My CS Blog<br>
+<a href="https://steemit.com/@yunsungwoong" target="_blank"><img src="https://img.shields.io/badge/Steemit_(2170004487z)-33cf98?style=for-the-badge&logo=velog&logoColor=white"/></a> : My Financial Blog<br>
+<a href="https://jack-channel-python.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-f1eb6e?style=for-the-badge&logo=PYTHON&logoColor=black"/></a> : My Python Blog <br>
 <br>
 ## 📞 Contact
-<a href="mailto:dailyco03@gmail.com"><img src="https://img.shields.io/badge/2170004487b@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=black"/></a>
+<a href="mailto:2170004487b@gmail.com"><img src="https://img.shields.io/badge/2170004487b@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=black"/></a>
 
 [HTML5]: https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white
 [css]: https://img.shields.io/badge/css-686de0?style=for-the-badge&logo=css3&logoColor=white
