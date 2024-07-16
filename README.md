@@ -27,7 +27,8 @@
 - 군 SW·AI 역량강화 인공지능 트랙(기본)(구름에듀, 2022.08~2022.09)
 - R3F를 이용한 인터렉티브 3D 가상환경 웹 개발 실무(한국메타버스산업협회, 2023.06)
 - V2X 통신에 대한 이해와 서비스 개발 실습(경북대학교 ICT 자동차융합연구센터, 2023.07)
-- 경북대학교 자율군집 소프트웨어 연구실 학생연구원 활동(2023.07~)
+- 경북대학교 자율군집 소프트웨어 연구실 학생연구원 활동(2023.07~2024.06)
+- 경북대학교 ISPL 연구실 학부연구생 활동(2024.06~)
 
 <br/>
 
@@ -158,8 +159,9 @@
   - ``2021.03~2022.12`` Software Engineer - ROKAF Logistics Command Convergence Systems Department (Full-time)<br/>
   - ``2023.01~2023.04`` DIGITAL MARKETING EXECUTIVE - TalkTalkLanguage(Academy)<br/>
   - ``2023.03~`` Kyungpook National University, Department of Electronic Engineering(bachelor's degree course)<br/>
-  - ``2023.07~`` Student researcher - Autonomous Cluster SW Research Center<br/>
-
+  - ``2023.07~2024.06`` Student researcher - Autonomous Cluster SW Research Center<br/>
+  - ``2024.06~`` Student researcher - ISPLIntelligent Signal Processing Laboratory<br/>
+  
 ## 🛠 Skills
 ### Frontend
 ![HTML5] ![css] ![JavaScript] ![TypeScript] ![React] ![Sass]
