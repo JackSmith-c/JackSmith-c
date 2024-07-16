@@ -160,7 +160,7 @@
   - ``2023.01~2023.04`` DIGITAL MARKETING EXECUTIVE - TalkTalkLanguage(Academy)<br/>
   - ``2023.03~`` Kyungpook National University, Department of Electronic Engineering(bachelor's degree course)<br/>
   - ``2023.07~2024.06`` Student researcher - Autonomous Cluster SW Research Center<br/>
-  - ``2024.06~`` Student researcher - ISPLIntelligent Signal Processing Laboratory<br/>
+  - ``2024.06~`` Undergraduate Research Student - ISPLIntelligent Signal Processing Laboratory<br/>
   
 ## 🛠 Skills
 ### Frontend
