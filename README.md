@@ -2,8 +2,7 @@
 
 [![Continuous integration](https://github.com/lowlighter/metrics/actions/workflows/ci.yml/badge.svg)](https://github.com/lowlighter/metrics/actions/workflows/ci.yml)
 
-
-
+Generate metrics that can be embedded everywhere, including your GitHub profile readme! Supports users, organizations, and even repositories!
 
 <table>
   <tr>
@@ -20,7 +19,7 @@
   </tr>
 
   <tr>
-    <th colspan="1" align="center">
+    <th align="center">
       <h3><a href="/README.md#-plugins">📞 연락처 </a></h3>
     </th>
   </tr>
@@ -39,7 +38,7 @@
   </tr>
 
   <tr>
-    <th colspan="1" align="center">
+    <th align="center">
       <h3><a href="/README.md#-plugins">📞 Education(어케공부했는지?) </a></h3>
     </th>
   </tr>
@@ -56,7 +55,7 @@
   </tr>
 
   <tr>
-    <th colspan="1" align="center">
+    <th align="center">
       <h3><a href="/README.md#-plugins">📞 Project Experience(어떤 프로젝트 했는지) </a></h3>
     </th>
   </tr>
@@ -219,7 +218,7 @@
 
 
   <tr>
-    <th colspan="1" align="center">
+    <th align="center">
       <h3><a href="/README.md#-plugins">📞 Awards & Honors(어떤거 상탔고, 어떤거 수료했는지)
       </a></h3>
     </th>
@@ -246,7 +245,7 @@
   </tr>
 
   <tr>
-    <th colspan="1" align="center">
+    <th align="center">
       <h3><a href="/README.md#-plugins">📞 Others(어학성적, 자격증)
       </a></h3>
     </th>
@@ -264,7 +263,7 @@
   </tr>
 
   <tr>
-    <th colspan="1" align="center">
+    <th align="center">
       <h3><a href="/README.md#-plugins">📞 Activity(활동한거, 학부생,알바, 학교, 군대)
       </a></h3>
     </th>
@@ -830,3 +829,6 @@ Copyright (c) 2020-present lowlighter
 ![Sponsors](https://github.com/lowlighter/metrics/blob/examples/metrics.sponsors.svg)
 
 
+<!--
+출처: https://github.com/lowlighter/metrics
+-->
