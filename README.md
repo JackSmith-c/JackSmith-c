@@ -251,6 +251,8 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
     <h3>👨🏻‍💻 English Proficiency</h3>
     ▶ TOEIC: XXX<br>
     ▶ TOFEL: XXX<br>
+  </td>
+  <td colspan="2" align="left">
     <h3>📜 Certifications</h3>
     ▶ 정보처리산업기사<br>
     ▶ 네트워크관리사2급<br>
@@ -265,16 +267,18 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
     </th>
   </tr>
   <tr>
-  <td colspan="2" align="center">
-    <h3>👨🏻‍💻 English Proficiency</h3>
-    ▶ TOEIC: XXX<br>
-    ▶ TOFEL: XXX<br>
-    <h3>📜 Certifications</h3>
-    ▶ 정보처리산업기사<br>
-    ▶ 네트워크관리사2급<br>
-    ▶ 행정관리사2,3급<br>
+  <td colspan="2" align="left">
+    <h3>👨🏻‍💻 직장 </h3>
+    ▶ 소프트웨어 엔지니어 - 공군 군수사령부 융합체계과(풀타임)<br>
+    ▶ 디지털 마케터 - 톡톡외국어(아카데미)<br>
+    <h3>👨🏻‍💻 연구 </h3>
+    ▶ 학생연구원 - 자율군집SW연구센터<br>
+    ▶ 학부연구생 - ISPL 연구실<br>
   </td>
   </tr>
+
+
+
 
 
 
