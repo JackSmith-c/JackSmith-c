@@ -19,7 +19,7 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
   </tr>
 
   <tr>
-    <th colspan="1" align="center">
+    <th colspan="2" align="center">
       <h3><a href="/README.md#-plugins">📞 연락처 </a></h3>
     </th>
   </tr>
@@ -38,7 +38,7 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
   </tr>
 
   <tr>
-    <th colspan="1" align="center">
+    <th colspan="2" align="center">
       <h3><a href="/README.md#-plugins">📞 Education(어케공부했는지?) </a></h3>
     </th>
   </tr>
@@ -55,7 +55,7 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
   </tr>
 
   <tr>
-    <th colspan="1" align="center">
+    <th colspan="2" align="center">
       <h3><a href="/README.md#-plugins">📞 Project Experience(어떤 프로젝트 했는지) </a></h3>
     </th>
   </tr>
@@ -218,27 +218,67 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
 
 
   <tr>
-    <th colspan="1" align="center">
+    <th colspan="2" align="center">
       <h3><a href="/README.md#-plugins">📞 Awards & Honors(어떤거 상탔고, 어떤거 수료했는지)
       </a></h3>
     </th>
   </tr>
   <tr>
   <td>
-    - 경북대학교 전자공학부 (재학중)<br>
-    - 지능형 자동차 내부 네트워크 기술(CAN) 응용 실무(반도체설계교육센터, 2023.01)<br>
-    - 군 SW·AI 역량강화 인공지능 트랙(기본)(구름에듀, 2022.08~2022.09)<br>
-    - R3F를 이용한 인터렉티브 3D 가상환경 웹 개발 실무(한국메타버스산업협회, 2023.06)<br>
-    - V2X 통신에 대한 이해와 서비스 개발 실습(경북대학교 ICT 자동차융합연구센터, 2023.07)<br>
-    - 경북대학교 자율군집 소프트웨어 연구실 학생연구원 활동(2023.07~2024.06)<br>
-    - 경북대학교 ISPL 연구실 학부연구생 활동(2024.06~)<br>
+    <h3>Awards</h3>
+    ▶ SEEK SQUARE 2024, 최우수상<br>
+    ▶ SEEK SQUARE 2024, 인기상<br>
+    ▶ 임베디드SW경진대회 본선 5등<br>
+    ▶ 제3회 국제대학생 EV 자율주행 경진대회 (1/10부문) 본선 9등<br>
+  </td>
+  </tr>
+  <tr>
+  <td>
+    <h3>Honors</h3>
+    ▶ 지능형 자동차 내부 네트워크 기술(CAN) 응용 실무 수료(반도체설계교육센터, 2023.01)<br>
+    ▶ 군 SW·AI 역량강화 인공지능 트랙(기본) 수료(구름에듀, 2022.08~2022.09)<br>
+    ▶ R3F를 이용한 인터렉티브 3D 가상환경 웹 개발 실무 수료(한국메타버스산업협회, 2023.06)<br>
+    ▶ V2X 통신에 대한 이해와 서비스 개발 실습 수료(경북대학교 ICT 자동차융합연구센터, 2023.07)<br>
+    ▶ 창업캠프 수료(2024.09)<br>
+    ▶ 창업동아리(골든타임) 활동 수료(2024.12)<br>
   </td>
   </tr>
 
+  <tr>
+    <th colspan="2" align="center">
+      <h3><a href="/README.md#-plugins">📞 Others(어학성적, 자격증)
+      </a></h3>
+    </th>
+  </tr>
+  <tr>
+  <td>
+    <h3>👨🏻‍💻 English Proficiency</h3>
+    ▶ TOEIC: XXX<br>
+    ▶ TOFEL: XXX<br>
+    <h3>📜 Certifications</h3>
+    ▶ 정보처리산업기사<br>
+    ▶ 네트워크관리사2급<br>
+    ▶ 행정관리사2,3급<br>
+  </td>
+  </tr>
 
-
-
-
+  <tr>
+    <th colspan="2" align="center">
+      <h3><a href="/README.md#-plugins">📞 Activity(활동한거, 학부생,알바, 학교, 군대)
+      </a></h3>
+    </th>
+  </tr>
+  <tr>
+  <td>
+    <h3>👨🏻‍💻 English Proficiency</h3>
+    ▶ TOEIC: XXX<br>
+    ▶ TOFEL: XXX<br>
+    <h3>📜 Certifications</h3>
+    ▶ 정보처리산업기사<br>
+    ▶ 네트워크관리사2급<br>
+    ▶ 행정관리사2,3급<br>
+  </td>
+  </tr>
 
 
 
