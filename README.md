@@ -43,7 +43,7 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
     </th>
   </tr>
   <tr>
-  <td>
+  <td colspan="2" align="left">
     - 경북대학교 전자공학부 (재학중)<br>
     - 지능형 자동차 내부 네트워크 기술(CAN) 응용 실무(반도체설계교육센터, 2023.01)<br>
     - 군 SW·AI 역량강화 인공지능 트랙(기본)(구름에듀, 2022.08~2022.09)<br>
@@ -62,7 +62,7 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
 
   <!-- project() -->
   <tr>
-    <td align="left">
+    <td colspan="2" align="left">
       <details open>
         <summary style="font-size: 20px; font-weight: bold;">🔫 AgriBot : 자동화 작물공정 혁신 솔루션</summary>
           <blockquote style="font-size: 15px; font-weight: bold;">
@@ -76,7 +76,7 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
 
   <!-- project() -->
   <tr>
-    <td align="left">
+    <td colspan="2" align="left">
       <details open>
         <summary style="font-size: 20px; font-weight: bold;">🔫 TurtleBot : 터틀봇을 이용한 자율주행 차량 구현</summary>
           <blockquote style="font-size: 15px; font-weight: bold;">
@@ -90,7 +90,7 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
 
   <!-- project() -->
   <tr>
-    <td align="left">
+    <td colspan="2" align="left">
       <details open>
         <summary style="font-size: 20px; font-weight: bold;">🔫 Luminocity : 유동인구를 활용한 옥외 광고 추천 솔루션 (2024 AWS Smart City Hackathon)</summary>
           <blockquote style="font-size: 15px; font-weight: bold;">
@@ -104,7 +104,7 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
 
   <!-- project() -->
   <tr>
-    <td align="left">
+    <td colspan="2" align="left">
       <details open>
         <summary style="font-size: 20px; font-weight: bold;">🔫 DonkeyCar : 동키카를 이용한 자율주행 차량 구현 </summary>
           <blockquote style="font-size: 15px; font-weight: bold;">
@@ -118,7 +118,7 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
 
   <!-- project() -->
   <tr>
-    <td align="left">
+    <td colspan="2" align="left">
       <details open>
         <summary style="font-size: 20px; font-weight: bold;">🔫 S32K144 : 엘리베이터 제작 및 구현 </summary>
           <blockquote style="font-size: 15px; font-weight: bold;">
@@ -132,7 +132,7 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
 
   <!-- project() -->
   <tr>
-    <td align="left">
+    <td colspan="2" align="left">
       <details open>
         <summary style="font-size: 20px; font-weight: bold;">🔫 Autonomous monitoring system suitable for the autonomous driving era, PCSAPS : 보행자보호시스탬 </summary>
           <blockquote style="font-size: 15px; font-weight: bold;">
@@ -146,7 +146,7 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
 
   <!-- project() -->
   <tr>
-    <td align="left">
+    <td colspan="2" align="left">
       <details open>
         <summary style="font-size: 20px; font-weight: bold;">🔫 Knu_StudyCafe : 파이썬을 활용한 스터디카페 키오스크</summary>
           <blockquote style="font-size: 15px; font-weight: bold;">
@@ -160,7 +160,7 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
 
   <!-- project() -->
   <tr>
-    <td align="left">
+    <td colspan="2" align="left">
       <details open>
         <summary style="font-size: 20px; font-weight: bold;">🔫 Air Defense Control Command, Maintenance Case Management System : 방공관제사령부, 정비사례 관리체계</summary>
           <blockquote style="font-size: 15px; font-weight: bold;">
@@ -174,7 +174,7 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
 
   <!-- project() -->
   <tr>
-    <td align="left">
+    <td colspan="2" align="left">
       <details open>
         <summary style="font-size: 20px; font-weight: bold;">🔫 Aviation Technology Research Institute, Aircraft Record Management System : 항공기술연구소, 항공기이력관리체계 (KT-100 Dis-Bonding 이력관리체계 + F-16계열 항공기 Damage Map)</summary>
           <blockquote style="font-size: 15px; font-weight: bold;">
@@ -189,7 +189,7 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
 
   <!-- project() -->
   <tr>
-    <td align="left">
+    <td colspan="2" align="left">
       <details open>
         <summary style="font-size: 20px; font-weight: bold;">🔫 Logistics Command, Human rights level self-assessment system : 군수사령부, 인권수준자체진단체계 개발</summary>
           <blockquote style="font-size: 15px; font-weight: bold;">
@@ -203,7 +203,7 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
 
   <!-- project() -->
   <tr>
-    <td align="left">
+    <td colspan="2" align="left">
       <details open>
         <summary style="font-size: 20px; font-weight: bold;">🔫  K-TCG : K-TCG 인터넷 홈페이지 유지보수 및 테스트</summary>
           <blockquote style="font-size: 15px; font-weight: bold;">
