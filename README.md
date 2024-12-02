@@ -63,7 +63,7 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
   <!-- project() -->
   <tr>
     <td colspan="2" align="left">
-      <details open>
+      <details close>
         <summary style="font-size: 20px; font-weight: bold;">🔫 AgriBot : 자동화 작물공정 혁신 솔루션</summary>
           <blockquote style="font-size: 15px; font-weight: bold;">
             <p>webOS의 제어아래에 ROS기반의 자동수확로봇인 HaviBot과 Yolo기반의 HueBot을 활용하여 수확부터 분류까지 전체과정을 완전자동화함.</p>
@@ -77,7 +77,7 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
   <!-- project() -->
   <tr>
     <td colspan="2" align="left">
-      <details open>
+      <details close>
         <summary style="font-size: 20px; font-weight: bold;">🔫 TurtleBot : 터틀봇을 이용한 자율주행 차량 구현</summary>
           <blockquote style="font-size: 15px; font-weight: bold;">
             <p>ROS와 SLAM 등을 활용하여 시뮬레이션 학습과 모형 차량 학습을 수행</p>
@@ -91,7 +91,7 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
   <!-- project() -->
   <tr>
     <td colspan="2" align="left">
-      <details open>
+      <details close>
         <summary style="font-size: 20px; font-weight: bold;">🔫 Luminocity : 유동인구를 활용한 옥외 광고 추천 솔루션 (2024 AWS Smart City Hackathon)</summary>
           <blockquote style="font-size: 15px; font-weight: bold;">
             <p>AWS 유동인구 데이터를 활용한 옥외광고솔루션으로, 백엔드와 아키텍처 설계에 기여함.</p>
@@ -105,7 +105,7 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
   <!-- project() -->
   <tr>
     <td colspan="2" align="left">
-      <details open>
+      <details close>
         <summary style="font-size: 20px; font-weight: bold;">🔫 DonkeyCar : 동키카를 이용한 자율주행 차량 구현 </summary>
           <blockquote style="font-size: 15px; font-weight: bold;">
             <p>텐서플로우와 케라스 등을 활용하여 시뮬레이션 학습과 모형 차량 학습을 수행</p>
@@ -119,7 +119,7 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
   <!-- project() -->
   <tr>
     <td colspan="2" align="left">
-      <details open>
+      <details close>
         <summary style="font-size: 20px; font-weight: bold;">🔫 S32K144 : 엘리베이터 제작 및 구현 </summary>
           <blockquote style="font-size: 15px; font-weight: bold;">
             <p>uVision IDE를 활용하여 엘리베이터 기능 설계와 제작 및 테스트</p>
@@ -133,7 +133,7 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
   <!-- project() -->
   <tr>
     <td colspan="2" align="left">
-      <details open>
+      <details close>
         <summary style="font-size: 20px; font-weight: bold;">🔫 Autonomous monitoring system suitable for the autonomous driving era, PCSAPS : 보행자보호시스탬 </summary>
           <blockquote style="font-size: 15px; font-weight: bold;">
             <p>학부과정 `창의공학설계` 수업에서 텀프로젝트로 제작한, 라즈베리파이와 아두이노를 활용한 PCSAPS(보행자보호시스템) 제작 및 구현</p>
@@ -147,7 +147,7 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
   <!-- project() -->
   <tr>
     <td colspan="2" align="left">
-      <details open>
+      <details close>
         <summary style="font-size: 20px; font-weight: bold;">🔫 Knu_StudyCafe : 파이썬을 활용한 스터디카페 키오스크</summary>
           <blockquote style="font-size: 15px; font-weight: bold;">
             <p>학부과정 `파이썬 프로그래밍` 수업에서 텀프로젝트로 제작한 스터디카페 키오스크</p>
@@ -161,7 +161,7 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
   <!-- project() -->
   <tr>
     <td colspan="2" align="left">
-      <details open>
+      <details close>
         <summary style="font-size: 20px; font-weight: bold;">🔫 Air Defense Control Command, Maintenance Case Management System : 방공관제사령부, 정비사례 관리체계</summary>
           <blockquote style="font-size: 15px; font-weight: bold;">
             <p>'방공관제사령부(現, 미사일방어사령부) 정비사례 관리체계’를 개발하여 방공관제사령부 예하 전대, 관제부대에 대한 “레이다 고장정비 종합관리”의 행정업무를 간소화하는데 기여함</p>
