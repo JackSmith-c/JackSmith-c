@@ -175,7 +175,7 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
   <!-- project() -->
   <tr>
     <td colspan="2" align="left">
-      <details open>
+      <details close>
         <summary style="font-size: 20px; font-weight: bold;">🔫 Aviation Technology Research Institute, Aircraft Record Management System : 항공기술연구소, 항공기이력관리체계 (KT-100 Dis-Bonding 이력관리체계 + F-16계열 항공기 Damage Map)</summary>
           <blockquote style="font-size: 15px; font-weight: bold;">
             <p>1>KT-100 Dis-Bonding 이력관리 체계를 개발하여 선제적인 정비강화와 다빈도 기골결함에 대해 신속히 조치할 수 있도록 기여함</p>
@@ -190,7 +190,7 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
   <!-- project() -->
   <tr>
     <td colspan="2" align="left">
-      <details open>
+      <details close>
         <summary style="font-size: 20px; font-weight: bold;">🔫 Logistics Command, Human rights level self-assessment system : 군수사령부, 인권수준자체진단체계 개발</summary>
           <blockquote style="font-size: 15px; font-weight: bold;">
             <p>인권수준 자체진단체계를 개발하여 코로나상황에 실무자들이 인권수준을 빠르게 조사하고 체계적으로 집계하는데 기여함</p>
@@ -204,7 +204,7 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
   <!-- project() -->
   <tr>
     <td colspan="2" align="left">
-      <details open>
+      <details close>
         <summary style="font-size: 20px; font-weight: bold;">🔫  K-TCG : K-TCG 인터넷 홈페이지 유지보수 및 테스트</summary>
           <blockquote style="font-size: 15px; font-weight: bold;">
             <p>K-TCG 인터넷 홈페이지를 유지보수에 기여하여 타국 항공기에 대한 선제적인 정비강화와 다빈도 기골결함에 대해 신속히 조치할 수 있도록 기여함</p>
