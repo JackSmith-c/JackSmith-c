@@ -247,12 +247,12 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
     </th>
   </tr>
   <tr>
-  <td colspan="2" align="left">
+  <td align="left">
     <h3>👨🏻‍💻 English Proficiency</h3>
     ▶ TOEIC: XXX<br>
     ▶ TOFEL: XXX<br>
   </td>
-  <td colspan="2" align="left">
+  <td align="left">
     <h3>📜 Certifications</h3>
     ▶ 정보처리산업기사<br>
     ▶ 네트워크관리사2급<br>
