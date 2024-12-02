@@ -224,16 +224,12 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
     </th>
   </tr>
   <tr>
-  <td>
+  <td colspan="2" align="left">
     <h3>Awards</h3>
     ▶ SEEK SQUARE 2024, 최우수상<br>
     ▶ SEEK SQUARE 2024, 인기상<br>
     ▶ 임베디드SW경진대회 본선 5등<br>
     ▶ 제3회 국제대학생 EV 자율주행 경진대회 (1/10부문) 본선 9등<br>
-  </td>
-  </tr>
-  <tr>
-  <td>
     <h3>Honors</h3>
     ▶ 지능형 자동차 내부 네트워크 기술(CAN) 응용 실무 수료(반도체설계교육센터, 2023.01)<br>
     ▶ 군 SW·AI 역량강화 인공지능 트랙(기본) 수료(구름에듀, 2022.08~2022.09)<br>
@@ -251,7 +247,7 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
     </th>
   </tr>
   <tr>
-  <td>
+  <td colspan="2" align="left">
     <h3>👨🏻‍💻 English Proficiency</h3>
     ▶ TOEIC: XXX<br>
     ▶ TOFEL: XXX<br>
@@ -269,7 +265,7 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
     </th>
   </tr>
   <tr>
-  <td>
+  <td colspan="2" align="center">
     <h3>👨🏻‍💻 English Proficiency</h3>
     ▶ TOEIC: XXX<br>
     ▶ TOFEL: XXX<br>
