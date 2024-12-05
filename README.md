@@ -315,7 +315,7 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
       <h3>👨🏻‍💻 Software</h3>
       ▶ Huebot System(#Yolov5 #Finetuning) <br>
       ▶ Knu_StudyCafe(#Tkinter #Pyqt) <br>
-      ▶ Vehicle Monitoring systeM(#RaspberryPi4 #OpenCV) <br>
+      ▶ Vehicle Monitoring system(#OpenCV) <br>
     </td>
     <td colspan="2">
       <h3>👨🏻‍💻 Experiment</h3>
@@ -324,7 +324,7 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
       ▶ ALE & Dynamo load test <br>
     </td>
   </tr>
-
+<!-- 
   <tr>
     <td colspan="3" align="center" width="50%">
       Embed metrics images on your profile or blog!<br>
@@ -337,7 +337,7 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
       <img src="/.github/readme/imgs/features_insights.gif" >
     </td>
   </tr>
-
+  -->
 <!-- 
   <tr>
     <td  align="center">
