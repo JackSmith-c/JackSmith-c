@@ -278,15 +278,26 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
   </tr>
 
   <tr>
+    <tr colspan="2">Debug Tool</td>
+    <tr colspan="2">MCU</td>
+    <tr colspan="2">Algorithm</td>
+  </tr>
+  <tr>
+    <tr colspan="2">Hardware</td>
+    <tr colspan="2">Software</td>
+    <tr colspan="2">Debug Tool</td>
+  </tr>
+
+  <tr>
     <td colspan="3" align="center">
       Embed metrics images on your profile or blog!<br>
       Use <a href="https://github.com/marketplace/actions/metrics-embed">GitHub actions</a> for even more features!<br>
-      <img src="/.github/readme/imgs/features_embed.gif" width="360">
+      <img src="/.github/readme/imgs/features_embed.gif" width="50%">
     </td>
     <td colspan="3" align="center">
       Share your metrics with friends and on social medias!<br>
       No configuration needed!<br>
-      <img src="/.github/readme/imgs/features_insights.gif" width="360">
+      <img src="/.github/readme/imgs/features_insights.gif" width="50%">
     </td>
   </tr>
 
