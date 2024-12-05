@@ -278,14 +278,45 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
   </tr>
 
   <tr>
-    <td colspan="2">Debug Tool</td>
-    <td colspan="2">MCU</td>
-    <td colspan="2">Algorithm</td>
+    <td colspan="2">
+      <h3>👨🏻‍💻 Debug Tool</h3>
+      ▶ WireShark <br>
+      ▶ Trace32 <br>
+      ▶ Vector CANoe <br>
+    </td>
+    <td colspan="2">
+      <h3>👨🏻‍💻 MCU</h3>
+      ▶ NXP S32K144 <br>
+      ▶ NXP S32K312 <br>
+      ▶ Arduino Uno <br>
+    </td>
+    <td colspan="2">
+      <h3>👨🏻‍💻 Algorithm</h3>
+      ▶ Anti jerk <br>
+      ▶ Stall protection <br>
+      ▶ Torque estimation <br>
+      ▶ *OVM (Bolognani, Min. mag.) <br>
+    </td>
   </tr>
   <tr>
-    <td colspan="2">Hardware</td>
-    <td colspan="2">Software</td>
-    <td colspan="2">Debug Tool</td>
+    <td colspan="2">
+      <h3>👨🏻‍💻 Hardware</h3>
+      ▶ Gate circuit design <br>
+      ▶ Control / Gate circuit *WCA <br>
+      ▶ DC link capacitor design <br>
+    </td>
+    <td colspan="2">
+      <h3>👨🏻‍💻 Software</h3>
+      ▶ Huebot System(#Yolov5 #Finetuning) <br>
+      ▶ Knu_StudyCafe(#Tkinter #Pyqt) <br>
+      ▶ Vehicle Monitoring systeM(#RaspberryPi4 #OpenCV) <br>
+    </td>
+    <td colspan="2">
+      <h3>👨🏻‍💻 Experiment</h3>
+      ▶ Inverter H/W <br>
+      ▶ Double pulse test <br>
+      ▶ ALE & Dynamo load test <br>
+    </td>
   </tr>
 
   <tr>
