@@ -278,14 +278,14 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
   </tr>
 
   <tr>
-    <tr colspan="2">Debug Tool</td>
-    <tr colspan="2">MCU</td>
-    <tr colspan="2">Algorithm</td>
+    <td colspan="2">Debug Tool</td>
+    <td colspan="2">MCU</td>
+    <td colspan="2">Algorithm</td>
   </tr>
   <tr>
-    <tr colspan="2">Hardware</td>
-    <tr colspan="2">Software</td>
-    <tr colspan="2">Debug Tool</td>
+    <td colspan="2">Hardware</td>
+    <td colspan="2">Software</td>
+    <td colspan="2">Debug Tool</td>
   </tr>
 
   <tr>
