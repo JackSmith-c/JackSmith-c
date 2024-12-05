@@ -261,13 +261,13 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
   </tr>
 
   <tr>
-    <th colspan="6" align="center">
+    <th colspan="6" align="center" width="360">
       <h3><a href="/README.md#-plugins">📞 Activity(활동한거, 학부생,알바, 학교, 군대)
       </a></h3>
     </th>
   </tr>
   <tr>
-  <td colspan="6" align="left">
+  <td colspan="6" align="left" width="360">
     <h3>👨🏻‍💻 직장 </h3>
     ▶ 소프트웨어 엔지니어 - 공군 군수사령부 융합체계과(풀타임)<br>
     ▶ 디지털 마케터 - 톡톡외국어(아카데미)<br>
