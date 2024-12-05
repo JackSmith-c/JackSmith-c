@@ -15,7 +15,8 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
     </td>
     <td colspan="4" align="center" width="75%">
     <h3>
-      Vehicle Software Engineer | AUTOSAR & Autonomous Driving Specialist | <br>
+      Vehicle Software Engineer | <br>
+      AUTOSAR & Autonomous Driving Specialist | <br>
       Full-Stack Developer with Web Expertise | <br>
       Developer Coach & Public Speaker | <br>
       Innovation & Startup Enthusiast
