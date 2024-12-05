@@ -280,62 +280,6 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
 
 
   <tr>
-        <td  align="center">
-        <details open><summary>Repositories from star lists</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.starlists.svg" alt=""></img></details>
-        <details open><summary>Languages from star lists</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.starlists.languages.svg" alt=""></img></details>
-        <img width="900" height="1" alt="">
-      </td>
-        <td  align="center">
-        <details><summary>Current year</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.calendar.svg" alt=""></img></details>
-        <details open><summary>Full history</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.calendar.full.svg" alt=""></img></details>
-        <img width="900" height="1" alt="">
-      </td>
-  </tr>
-  <tr>
-    <th><a href="source/plugins/achievements/README.md">🏆 Achievements</a></th>
-    <th><a href="source/plugins/notable/README.md">🎩 Notable contributions</a></th>
-  </tr>
-  <tr>
-        <td  align="center">
-        <details open><summary>Compact display</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.achievements.compact.svg" alt=""></img></details>
-        <details><summary>Detailed display</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.achievements.svg" alt=""></img></details>
-        <img width="900" height="1" alt="">
-      </td>
-        <td  align="center">
-        <details open><summary>Indepth analysis</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.notable.indepth.svg" alt=""></img></details>
-        <details><summary>Contributions in organizations only</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.notable.svg" alt=""></img></details>
-        <img width="900" height="1" alt="">
-      </td>
-  </tr>
-  <tr>
-    <th><a href="source/plugins/activity/README.md">📰 Recent activity</a></th>
-    <th><a href="source/plugins/traffic/README.md">🧮 Repositories traffic</a></th>
-  </tr>
-  <tr>
-        <td  align="center">
-        <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.activity.svg" alt=""></img>
-        <img width="900" height="1" alt="">
-      </td>
-        <td  align="center">
-        <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.traffic.svg" alt=""></img>
-        <img width="900" height="1" alt="">
-      </td>
-  </tr>
-  <tr>
-    <th><a href="source/plugins/code/README.md">♐ Random code snippet</a></th>
-    <th><a href="source/plugins/gists/README.md">🎫 Gists</a></th>
-  </tr>
-  <tr>
-        <td  align="center">
-        <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.code.svg" alt=""></img>
-        <img width="900" height="1" alt="">
-      </td>
-        <td  align="center">
-        <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.gists.svg" alt=""></img>
-        <img width="900" height="1" alt="">
-      </td>
-  </tr>
-  <tr>
     <th><a href="source/plugins/projects/README.md">🗂️ GitHub projects</a></th>
     <th><a href="source/plugins/introduction/README.md">🙋 Introduction</a></th>
   </tr>
