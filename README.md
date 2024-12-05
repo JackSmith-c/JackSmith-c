@@ -352,7 +352,7 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
     </td>
   </tr>
   -->
-  
+<!--   
   <tr>
     <td align="center" colspan="6">
       Test latest features and patches on <code><a href="https://beta-metrics.lecoq.io">🧪 Metrics beta</a></code>!
@@ -364,7 +364,7 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
       <a href="https://github.com/lowlighter/metrics/fork">Fork this repository</a> and edit HTML, CSS, JS and <a href="https://github.com/mde/ejs">EJS</a> for even more customization!
     </td>
   </tr>
-  
+   -->
 </table>
 
 
