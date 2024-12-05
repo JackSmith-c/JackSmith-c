@@ -14,13 +14,13 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
     <img alt="" width="200" src="https://github.com/user-attachments/assets/d4179620-7655-4974-8784-edd0946fc37e" alt=""></img>
     </td>
     <td colspan="4" align="center" width="75%">
-    <h1 style="border-bottom: none;">
+    <h2 style="border-bottom: none;">
       Vehicle Software Engineer | <br>
       AUTOSAR & Autonomous Driving Specialist | <br>
       Full-Stack Developer with Web Expertise | <br>
       Developer Coach & Public Speaker | <br>
       Innovation & Startup Enthusiast
-    </h1>
+    </h2>
     </td>
   </tr>
 
