@@ -278,43 +278,6 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
   </tr>
 
 
-
-  <tr>
-    <th><a href="/source/templates/terminal/README.md">📙 Terminal template</a></th>
-    <th><a href="/source/templates/markdown/README.md">📒 Markdown template</a></th>
-  </tr>
-  <tr>
-        <td  align="center">
-        <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.terminal.svg" alt=""></img>
-        <img width="900" height="1" alt="">
-      </td>
-        <td  align="center">
-        <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.markdown.png" alt=""></img>
-        <img width="900" height="1" alt="">
-      </td>
-  </tr>
-  <tr>
-    <th colspan="2"><a href="/source/templates/community/README.md">📕 See also community templates</a></th>
-  </tr>
-  <tr>
-    <th colspan="2"><h2>🦑 Try it now!</h2></th>
-  </tr>
-  <tr>
-    <th><a href="https://metrics.lecoq.io/embed">📊 Metrics embed</a></th>
-    <th><a href="https://metrics.lecoq.io/insights">✨ Metrics insights</a></th>
-  </tr>
-  <tr>
-    <td align="center">
-      Embed metrics images on your profile or blog!<br>
-      Use <a href="https://github.com/marketplace/actions/metrics-embed">GitHub actions</a> for even more features!<br>
-      <img src="/.github/readme/imgs/features_embed.gif" width="360">
-    </td>
-    <td align="center">
-      Share your metrics with friends and on social medias!<br>
-      No configuration needed!<br>
-      <img src="/.github/readme/imgs/features_insights.gif" width="360">
-    </td>
-  </tr>
   <tr>
     <td align="center" colspan="2">
       Test latest features and patches on <code><a href="https://beta-metrics.lecoq.io">🧪 Metrics beta</a></code>!
