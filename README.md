@@ -281,16 +281,6 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
 
 
   <tr>
-    <th colspan="2"><a href="/source/templates/community/README.md">📕 See also community templates</a></th>
-  </tr>
-  <tr>
-    <th colspan="2"><h2>🦑 Try it now!</h2></th>
-  </tr>
-  <tr>
-    <th><a href="https://metrics.lecoq.io/embed">📊 Metrics embed</a></th>
-    <th><a href="https://metrics.lecoq.io/insights">✨ Metrics insights</a></th>
-  </tr>
-  <tr>
     <td align="center">
       Embed metrics images on your profile or blog!<br>
       Use <a href="https://github.com/marketplace/actions/metrics-embed">GitHub actions</a> for even more features!<br>
