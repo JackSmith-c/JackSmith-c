@@ -291,19 +291,19 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
     </th>
   </tr>
   <tr>
-    <td colspan="2">
+    <td colspan="2" width="30%">
       <h3>👨🏻‍💻 Frontend</h3>
       ▶ Javascript <br>
       ▶ Typescript <br>
       ▶ React <br>
     </td>
-    <td colspan="2">
+    <td colspan="2" width="40%">
       <h3>👨🏻‍💻 Backend</h3>
       ▶ Node.Js <br>
       ▶ MySQL <br>
       ▶ MongoDB <br>
     </td>
-    <td colspan="2">
+    <td colspan="2" width="30%">
       <h3>👨🏻‍💻 Collaboration</h3>
       ▶ Git & Github <br>
       ▶ Notion <br>
