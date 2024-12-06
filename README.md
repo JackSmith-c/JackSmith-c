@@ -314,21 +314,21 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
   <tr>
     <td colspan="2">
       <h3>👨🏻‍💻 Design</h3>
-      ▶ Gate circuit design <br>
-      ▶ Control / Gate circuit *WCA <br>
-      ▶ DC link capacitor design <br>
+      ▶ Figma <br>
+      ▶ Canva <br>
+      ▶ Miri Canvas <br>
     </td>
     <td colspan="2">
       <h3>👨🏻‍💻 Languages </h3>
-      ▶ Huebot System(#Yolov5 #Finetuning) <br>
-      ▶ Knu_StudyCafe(#Tkinter #Pyqt) <br>
-      ▶ Vehicle Monitoring system(#OpenCV) <br>
+      ▶ C/C++ <br>
+      ▶ Java/Python <br>
+      ▶ Javascript/Typescript <br>
     </td>
     <td colspan="2">
       <h3>👨🏻‍💻 Library & Framework </h3>
-      ▶ Inverter H/W <br>
-      ▶ Double pulse test <br>
-      ▶ ALE & Dynamo load test <br>
+      ▶ Tkinter <br>
+      ▶ React <br>
+      ▶ Spring <br>
     </td>
   </tr>
 
