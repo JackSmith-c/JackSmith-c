@@ -292,40 +292,40 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
   </tr>
   <tr>
     <td colspan="2">
-      <h3>👨🏻‍💻 Debug Tool</h3>
-      ▶ WireShark <br>
-      ▶ Trace32 <br>
-      ▶ Vector CANoe <br>
+      <h3>👨🏻‍💻 Frontend</h3>
+      ▶ Javascript <br>
+      ▶ Typescript <br>
+      ▶ React <br>
     </td>
     <td colspan="2">
-      <h3>👨🏻‍💻 MCU</h3>
-      ▶ NXP S32K144 <br>
-      ▶ NXP S32K312 <br>
-      ▶ Arduino Uno <br>
+      <h3>👨🏻‍💻 Backend</h3>
+      ▶ Node.Js <br>
+      ▶ MySQL <br>
+      ▶ MongoDB <br>
     </td>
     <td colspan="2">
-      <h3>👨🏻‍💻 Algorithm</h3>
-      ▶ Anti jerk <br>
-      ▶ Stall protection <br>
-      ▶ Torque estimation <br>
-      ▶ *OVM (Bolognani, Min. mag.) <br>
+      <h3>👨🏻‍💻 Collaboration</h3>
+      ▶ Git & Github <br>
+      ▶ Notion <br>
+      ▶ Slack <br>
+      ▶ Jira Confluence <br>
     </td>
   </tr>
   <tr>
     <td colspan="2">
-      <h3>👨🏻‍💻 Hardware</h3>
+      <h3>👨🏻‍💻 Design</h3>
       ▶ Gate circuit design <br>
       ▶ Control / Gate circuit *WCA <br>
       ▶ DC link capacitor design <br>
     </td>
     <td colspan="2">
-      <h3>👨🏻‍💻 Software</h3>
+      <h3>👨🏻‍💻 Languages </h3>
       ▶ Huebot System(#Yolov5 #Finetuning) <br>
       ▶ Knu_StudyCafe(#Tkinter #Pyqt) <br>
       ▶ Vehicle Monitoring system(#OpenCV) <br>
     </td>
     <td colspan="2">
-      <h3>👨🏻‍💻 Experiment</h3>
+      <h3>👨🏻‍💻 Library & Framework </h3>
       ▶ Inverter H/W <br>
       ▶ Double pulse test <br>
       ▶ ALE & Dynamo load test <br>
@@ -345,12 +345,13 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
       ▶ WireShark <br>
       ▶ Trace32 <br>
       ▶ Vector CANoe <br>
+      ▶ Green Hills Compiler <br>
     </td>
     <td colspan="2">
       <h3>👨🏻‍💻 MCU</h3>
       ▶ NXP S32K144 <br>
       ▶ NXP S32K312 <br>
-      ▶ Arduino Uno <br>
+      ▶ OPENCR 1.0 <br>
     </td>
     <td colspan="2">
       <h3>👨🏻‍💻 Algorithm</h3>
@@ -363,15 +364,16 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
   <tr>
     <td colspan="2">
       <h3>👨🏻‍💻 Hardware</h3>
-      ▶ Gate circuit design <br>
-      ▶ Control / Gate circuit *WCA <br>
-      ▶ DC link capacitor design <br>
+      ▶ Nuvo-10208GC <br>
+      ▶ LDS-02(Lidar) <br>
+      ▶ ouster Lidar OS1-64  <br>
     </td>
     <td colspan="2">
       <h3>👨🏻‍💻 Software</h3>
-      ▶ Huebot System(#Yolov5 #Finetuning) <br>
-      ▶ Knu_StudyCafe(#Tkinter #Pyqt) <br>
-      ▶ Vehicle Monitoring system(#OpenCV) <br>
+      ▶ GreenHills Compiler <br>
+      ▶ Ouster Studio <br>
+      ▶ Mobilgen(Hyundai Autoever) <br>
+      ▶ Matlab, Simulink <br>
     </td>
     <td colspan="2">
       <h3>👨🏻‍💻 Experiment</h3>
