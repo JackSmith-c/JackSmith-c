@@ -113,7 +113,7 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
                         <p style="margin: 10px 0;">- 개발 기간: 2024.07 ~ 2024.11</p>
                         <p style="margin: 10px 0;">- 사용 언어 및 기술: Python, ROS, C++, webOS</p>
                     </td>
-                    <td style="padding: 10px; vertical-align: top; text-align: right; width: 20px;">
+                    <td style="padding: 10px; vertical-align: top; text-align: right;">
                         <!--
                         <img src="https://github.com/user-attachments/assets/d4179620-7655-4974-8784-edd0946fc37e" 
                              alt="AgriBot 이미지" 
