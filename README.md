@@ -115,10 +115,10 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
                         <p style="margin: 10px 0;">- 사용 언어 및 기술: Python, ROS, C++, webOS</p>
                     </td>
                     <!-- 이미지 셀 -->
-                    <td style="vertical-align: top; text-align: right; width: 30%;">
+                    <td style="vertical-align: top; text-align: right; width: 30%; padding-right: 0;">
                         <img src="https://github.com/user-attachments/assets/d4179620-7655-4974-8784-edd0946fc37e" 
                              alt="AgriBot 이미지" 
-                             style="max-width: 100%; height: auto; border: 1px solid #ccc;">
+                             style="max-width: 60%; height: auto; border: 1px solid #ccc;">
                     </td>
                 </tr>
             </table>
