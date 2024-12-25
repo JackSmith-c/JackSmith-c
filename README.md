@@ -113,9 +113,11 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
                         <p style="margin: 10px 0;">- 사용 언어 및 기술: Python, ROS, C++, webOS</p>
                     </td>
                     <td style="width: 30%; text-align: right; vertical-align: top;">
+                      <a href="https://github.com/YUNSUNGWOONG/2024ESWContest_webOS_3012" target="_blank" style="text-decoration: none;">
                         <img src="https://raw.githubusercontent.com/YUNSUNGWOONG/2024ESWContest_webOS_3012/main/assets/images/README/image-20241026190510507.png" 
                              alt="AgriBot 이미지" 
                              style="width: 200px !important; height: auto; border: 1px solid #ccc;!important">
+                      </a>
                     </td>
                 </tr>
             </table>
