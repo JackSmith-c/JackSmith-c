@@ -121,7 +121,7 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
                              -->
                         <img src="https://github.com/user-attachments/assets/d4179620-7655-4974-8784-edd0946fc37e" 
                             alt="AgriBot 이미지" 
-                            style="width: 100%; max-width: 20px; height: auto; border: 1px solid #ccc;">
+                            style="width: 200px; height: auto; border: 1px solid #ccc;">
                     </td>
                 </tr>
             </table>
