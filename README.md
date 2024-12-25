@@ -100,21 +100,23 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
     <td colspan="6" align="left">
         <details close>
             <summary style="font-size: 20px; font-weight: bold;">💻 AgriBot : 자동화 작물공정 혁신 솔루션</summary>
-            <table style="width: 100%; margin-top: 10px;">
+            <table style="width: 100%; margin-top: 10px; border-collapse: collapse;">
                 <tr>
-                    <td colspan="2" align="center" width="50%">
-                        <img  src="https://raw.githubusercontent.com/YUNSUNGWOONG/2024ESWContest_webOS_3012/main/assets/images/README/image-20241026190510507.png" 
-                              alt="AgriBot 이미지"
-                              style="width: 200px; height: auto; border: 1px solid #ccc;></img>
+                    <!-- 이미지 셀 -->
+                    <td colspan="2" align="center" width="50%" style="padding: 10px;">
+                        <img src="https://raw.githubusercontent.com/YUNSUNGWOONG/2024ESWContest_webOS_3012/main/assets/images/README/image-20241026190510507.png" 
+                             alt="AgriBot 이미지"
+                             style="width: 200px; height: auto; border: 1px solid #ccc;">
                     </td>
-                    <td colspan="4" align="center" width="50%">
-                          <h2 style="border-bottom: none;">
-                            Vehicle Software Engineer |  <br>
-                            AUTOSAR & Autonomous Driving Specialist | <br>
-                            Full-Stack Developer with Web Expertise | <br>
-                            Developer Coach & Public Speaker | <br>
+                    <!-- 텍스트 셀 -->
+                    <td colspan="4" align="center" width="50%" style="padding: 10px;">
+                        <h2 style="font-size: 16px; font-weight: normal; line-height: 1.6; text-align: left; margin: 0;">
+                            Vehicle Software Engineer <br>
+                            AUTOSAR & Autonomous Driving Specialist <br>
+                            Full-Stack Developer with Web Expertise <br>
+                            Developer Coach & Public Speaker <br>
                             Innovation & Startup Enthusiast
-                          </h2>
+                        </h2>
                     </td>
                 </tr>
             </table>
