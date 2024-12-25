@@ -30,22 +30,22 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
     </th>
   </tr>
   <tr>
-    <td colspan="3"><a href="source/plugins/isocalendar/README.md">📫 Instagram : @seongung64 </a></td>
-    <td colspan="3"><a href="source/plugins/languages/README.md">🈷️ LinkedIn: YUNSUNGWOONG</a></td>
+    <td colspan="3"><a href="source/plugins/isocalendar/README.md">🚩 Instagram : @seongung64 </a></td>
+    <td colspan="3"><a href="source/plugins/languages/README.md">🧲 LinkedIn: YUNSUNGWOONG</a></td>
   </tr>
     <tr>
     <td colspan="3"><a href="source/plugins/isocalendar/README.md">📫 Gmail : 2170004487b@gmail.com </a></td>
-    <td colspan="3"><a href="source/plugins/languages/README.md">🈷️ Navermail : yhon89@naver.com</a></td>
+    <td colspan="3"><a href="source/plugins/languages/README.md">📧 Navermail : yhon89@naver.com</a></td>
   </tr>
   </tr>
     <tr>
     <td colspan="3"><a href="source/plugins/isocalendar/README.md">📫 Location : Daegu-City,Korea </a></td>
-    <td colspan="3"><a href="source/plugins/languages/README.md">🈷️ 학교 : Kyungpook National University </a></td>
+    <td colspan="3"><a href="source/plugins/languages/README.md">🏠 학교 : Kyungpook National University </a></td>
   </tr>
 
   <tr>
     <th colspan="6" align="center">
-      <h3><a href="/README.md#-plugins">📞 Education(어케공부했는지?) </a></h3>
+      <h3><a href="/README.md#-plugins">✍🏻 Education(어케공부했는지?) </a></h3>
     </th>
   </tr>
   <tr>
@@ -62,23 +62,37 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
 
   <tr>
     <th colspan="6" align="center">
-      <h3><a href="/README.md#-plugins">📞 Project Experience(어떤 프로젝트 했는지) </a></h3>
+      <h3><a href="/README.md#-plugins">👩🏻‍💻 Project Experience(어떤 프로젝트 했는지) </a></h3>
     </th>
   </tr>
 
   <!-- project() -->
   <tr>
     <td colspan="6" align="left">
-      <details close>
-        <summary style="font-size: 20px; font-weight: bold;">🔫 AgriBot : 자동화 작물공정 혁신 솔루션</summary>
-          <blockquote style="font-size: 15px; font-weight: bold;">
-            <p>webOS의 제어아래에 ROS기반의 자동수확로봇인 HaviBot과 Yolo기반의 HueBot을 활용하여 수확부터 분류까지 전체과정을 완전자동화함.</p>
-          </blockquote>
-            <p>- 개발 기간 : 2024.07 ~ 2024.11</p>
-            <p>- 사용 언어 및 기술 : python, ROS, C++, webOS</p>
-      </details>
+        <details close>
+            <summary style="font-size: 20px; font-weight: bold;">💻 AgriBot : 자동화 작물공정 혁신 솔루션</summary>
+            <table style="width: 100%; border-collapse: collapse; margin-top: 10px;">
+                <tr>
+                    <td style="width: 50%; vertical-align: top; padding-right: 10px;">
+                        <blockquote style="font-size: 15px; font-weight: bold; margin: 0; padding-left: 10px; border-left: 4px solid #0078D7;">
+                            <p>
+                                webOS의 제어 아래에 ROS 기반의 자동수확로봇인 HaviBot과 Yolo 기반의 HueBot을 활용하여 
+                                수확부터 분류까지 전체 과정을 완전자동화함.
+                            </p>
+                        </blockquote>
+                        <p style="margin: 10px 0;">- 개발 기간: 2024.07 ~ 2024.11</p>
+                        <p style="margin: 10px 0;">- 사용 언어 및 기술: Python, ROS, C++, webOS</p>
+                    </td>
+                    <td style="width: 50%; text-align: right; vertical-align: top;">
+                        <img src="https://github.com/user-attachments/assets/d4179620-7655-4974-8784-edd0946fc37e" 
+                             alt="AgriBot 이미지" 
+                             style="width: 200px; height: auto; border: 1px solid #ccc;">
+                    </td>
+                </tr>
+            </table>
+        </details>
     </td>
-  </tr>
+</tr>
 
   <!-- project() -->
   <tr>
