@@ -100,7 +100,7 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
     <td colspan="6" align="left">
         <details close>
             <summary style="font-size: 20px; font-weight: bold;">💻 AgriBot : 자동화 작물공정 혁신 솔루션</summary>
-            <table style="width: 100%; border-collapse: collapse; margin-top: 10px;">
+            <table style="width: 100%; margin-top: 10px;">
                 <tr>
                     <td colspan="2" align="center" width="25%">
                         <img alt="" width="200" src="https://github.com/user-attachments/assets/d4179620-7655-4974-8784-edd0946fc37e" alt=""></img>
