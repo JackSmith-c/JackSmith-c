@@ -301,18 +301,18 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
 
   <tr>
     <th colspan="6" align="center">
-      <h3><a href="/README.md#-plugins">📞 Awards & Honors(어떤거 상탔고, 어떤거 수료했는지)
+      <h3><a href="/README.md#-plugins">🏆 Awards & Honors(어떤거 상탔고, 어떤거 수료했는지)
       </a></h3>
     </th>
   </tr>
   <tr>
   <td colspan="6" align="left">
-    <h3>Awards</h3>
+    <h2>🏆 Awards</h2>
     ▶ SEEK SQUARE 2024, 최우수상<br>
     ▶ SEEK SQUARE 2024, 인기상<br>
     ▶ 임베디드SW경진대회 본선 5등<br>
     ▶ 제3회 국제대학생 EV 자율주행 경진대회 (1/10부문) 본선 9등<br>
-    <h3>Honors</h3>
+    <h2>🎖️ Honors</h2>
     ▶ 지능형 자동차 내부 네트워크 기술(CAN) 응용 실무 수료(반도체설계교육센터, 2023.01)<br>
     ▶ 군 SW·AI 역량강화 인공지능 트랙(기본) 수료(구름에듀, 2022.08~2022.09)<br>
     ▶ R3F를 이용한 인터렉티브 3D 가상환경 웹 개발 실무 수료(한국메타버스산업협회, 2023.06)<br>
