@@ -39,7 +39,7 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
   </tr>
   </tr>
     <tr>
-    <td colspan="3"><a href="source/plugins/isocalendar/README.md">📫 Location : Daegu-City,Korea </a></td>
+    <td colspan="3"><a href="source/plugins/isocalendar/README.md">🌍 Location : Daegu-City,Korea </a></td>
     <td colspan="3"><a href="source/plugins/languages/README.md">🏠 학교 : Kyungpook National University </a></td>
   </tr>
 
