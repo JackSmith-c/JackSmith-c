@@ -106,7 +106,7 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
                     <td colspan="2" align="center" width="50%" style="padding: 10px;">
                         <img src="https://raw.githubusercontent.com/YUNSUNGWOONG/2024ESWContest_webOS_3012/main/assets/images/README/image-20241026190510507.png" 
                              alt="AgriBot 이미지"
-                             style="width: 75%; height: auto; border: 1px solid #ccc;">
+                             style="width: 55%; height: auto; border: 1px solid #ccc;">
                     </td>
                     <!-- 텍스트 셀 -->
                     <td colspan="4" align="center" width="50%" style="padding: 10px;">
