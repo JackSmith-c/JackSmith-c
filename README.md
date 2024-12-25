@@ -106,7 +106,8 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
                         <blockquote style="font-size: 15px; font-weight: bold; margin: 0; padding-left: 10px; border-left: 4px solid #0078D7;">
                             <p>
                                 webOS의 제어 아래에 ROS 기반의 자동수확로봇인 HaviBot과 Yolo <br>
-                                기반의 HueBot을 활용하여 수확부터 분류까지 전체 과정을 완전자동화함.<br>
+                                기반의 HueBot을 활용하여 수확부터 분류까지 전체 과정을 <br>
+                                완전자동화함.
                             </p>
                         </blockquote>
                         <p style="margin: 10px 0;">- 개발 기간: 2024.07 ~ 2024.11</p>
