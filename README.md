@@ -103,7 +103,7 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
             <table style="width: 100%; border-collapse: collapse; margin-top: 10px;">
                 <tr>
                     <!-- 텍스트 셀 -->
-                    <td style="vertical-align: top; text-align: left; padding-right: 10px;">
+                    <td style="vertical-align: top; text-align: left; padding-right: 10px; width: 70%;">
                         <blockquote style="font-size: 15px; font-weight: bold; margin: 0; padding-left: 10px; border-left: 4px solid #0078D7;">
                             <p>
                                 webOS의 제어 아래에 ROS 기반의 자동수확로봇인 <br>
