@@ -144,8 +144,8 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
                     <td style="width: 30%; text-align: right; vertical-align: top;">
                       <a href="https://github.com/YUNSUNGWOONG/DonkeyBro" target="_blank" style="text-decoration: none;">
                         <img src="https://github.com/YUNSUNGWOONG/DonkeyBro/raw/main/images/common/README/gif1.gif" 
-                             alt="TurtleBot 이미지" width="300px"
-                             style=" height: auto; border: 1px solid #ccc;">
+                             alt="TurtleBot 이미지" width="250px"
+                             style="width: 60%; height: auto; border: 1px solid #ccc;">
                       </a>
                     </td>
                 </tr>
