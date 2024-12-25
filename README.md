@@ -65,8 +65,9 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
       <h3><a href="/README.md#-plugins">👩🏻‍💻 Project Experience(어떤 프로젝트 했는지) </a></h3>
     </th>
   </tr>
-
+  dada
   <!-- project() -->
+  <!--
   <tr>
     <td colspan="6" align="left">
         <details close>
@@ -94,7 +95,35 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
         </details>
     </td>
 </tr>
+-->
 
+  <tr>
+    <td colspan="6" align="left">
+        <details close>
+            <summary style="font-size: 20px; font-weight: bold;">💻 AgriBot : 자동화 작물공정 혁신 솔루션</summary>
+            <table style="width: 100%; border-collapse: collapse; margin-top: 10px;">
+                <tr>
+                    <td style="vertical-align: top; padding-right: 10px;">
+                        <blockquote style="font-size: 15px; font-weight: bold; margin: 0; padding-left: 10px; border-left: 4px solid #0078D7;">
+                            <p>
+                                webOS의 제어 아래에 ROS 기반의 자동수확로봇인 <br>
+                                HaviBot과 Yolo 기반의 HueBot을 활용하여 <br>
+                                수확부터 분류까지 전체 과정을 완전자동화함.
+                            </p>
+                        </blockquote>
+                        <p style="margin: 10px 0;">- 개발 기간: 2024.07 ~ 2024.11</p>
+                        <p style="margin: 10px 0;">- 사용 언어 및 기술: Python, ROS, C++, webOS</p>
+                    </td>
+                    <td style="text-align: right; vertical-align: top;">
+                        <img src="https://github.com/user-attachments/assets/d4179620-7655-4974-8784-edd0946fc37e" 
+                             alt="AgriBot 이미지" 
+                             style="width: 200px; height: auto; border: 1px solid #ccc;">
+                    </td>
+                </tr>
+            </table>
+        </details>
+    </td>
+</tr>
   <!-- project() -->
   <tr>
     <td colspan="6" align="left">
