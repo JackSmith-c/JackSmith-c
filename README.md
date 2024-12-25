@@ -102,7 +102,7 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
             <summary style="font-size: 20px; font-weight: bold;">💻 AgriBot : 자동화 작물공정 혁신 솔루션</summary>
             <table style="width: 100%; border-collapse: collapse; margin-top: 10px;">
                 <tr>
-                    <td style="vertical-align: top; text-align: left;">
+                    <td style="vertical-align: top; text-align: left; padding-right: 10px;">
                         <blockquote style="font-size: 15px; font-weight: bold; margin: 0; padding-left: 10px; border-left: 4px solid #0078D7;">
                             <p>
                                 webOS의 제어 아래에 ROS 기반의 자동수확로봇인 <br>
