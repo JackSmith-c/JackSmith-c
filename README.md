@@ -103,7 +103,7 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
             <table style="width: 100%; margin-top: 10px;">
                 <tr>
                     <td colspan="2" align="center" width="25%">
-                        <img alt="" width="200" src="https://github.com/user-attachments/assets/d4179620-7655-4974-8784-edd0946fc37e" alt=""></img>
+                        <img alt="" width="200" src="https://raw.githubusercontent.com/YUNSUNGWOONG/2024ESWContest_webOS_3012/main/assets/images/README/image-20241026190510507.png" alt=""></img>
                     </td>
                     <td colspan="4" align="center" width="75%">
                           <h2 style="border-bottom: none;">
