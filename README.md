@@ -100,16 +100,9 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
     <td colspan="6" align="left">
         <details close>
             <summary style="font-size: 20px; font-weight: bold;">💻 AgriBot : 자동화 작물공정 혁신 솔루션</summary>
-            <table style="width: 100%; margin-top: 10px; border-collapse: collapse;">
+            <table style="width: 100%; border-collapse: collapse; margin-top: 10px;">
                 <tr>
-                    <!-- 이미지 셀 -->
-                    <td colspan="2" align="center" style="padding: 10px;">
-                        <img src="https://raw.githubusercontent.com/YUNSUNGWOONG/2024ESWContest_webOS_3012/main/assets/images/README/image-20241026190510507.png" 
-                             alt="AgriBot 이미지"
-                             style="width: 55%; margin:0px; height: auto; border: 1px solid #ccc;">
-                    </td>
-                    <!-- 텍스트 셀 -->
-                    <td colspan="4" align="center" style="padding: 10px;">
+                    <td style="width: 72%; vertical-align: top; padding-right: 10px;">
                         <blockquote style="font-size: 15px; font-weight: bold; margin: 0; padding-left: 10px; border-left: 4px solid #0078D7;">
                             <p>
                                 webOS의 제어 아래에 ROS 기반의 자동수확로봇인 <br>
@@ -119,6 +112,11 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
                         </blockquote>
                         <p style="margin: 10px 0;">- 개발 기간: 2024.07 ~ 2024.11</p>
                         <p style="margin: 10px 0;">- 사용 언어 및 기술: Python, ROS, C++, webOS</p>
+                    </td>
+                    <td style="width: 28%; text-align: right; vertical-align: top;">
+                        <img src="https://raw.githubusercontent.com/YUNSUNGWOONG/2024ESWContest_webOS_3012/main/assets/images/README/image-20241026190510507.png" 
+                             alt="AgriBot 이미지" 
+                             style="width: 200px; height: auto; border: 1px solid #ccc;">
                     </td>
                 </tr>
             </table>
