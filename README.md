@@ -102,23 +102,17 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
             <summary style="font-size: 20px; font-weight: bold;">💻 AgriBot : 자동화 작물공정 혁신 솔루션</summary>
             <table style="width: 100%; border-collapse: collapse; margin-top: 10px;">
                 <tr>
-                    <!-- 텍스트 셀 -->
-                    <td style="vertical-align: top; text-align: left; padding-right: 10px; width: 70%;">
-                        <blockquote style="font-size: 15px; font-weight: bold; margin: 0; padding-left: 10px; border-left: 4px solid #0078D7;">
-                            <p>
-                                webOS의 제어 아래에 ROS 기반의 자동수확로봇인 
-                                HaviBot과 Yolo 기반의 HueBot을 활용하여 
-                                수확부터 분류까지 전체 과정을 완전자동화함.
-                            </p>
-                        </blockquote>
-                        <p style="margin: 10px 0;">- 개발 기간: 2024.07 ~ 2024.11</p>
-                        <p style="margin: 10px 0;">- 사용 언어 및 기술: Python, ROS, C++, webOS</p>
+                    <td colspan="2" align="center" width="25%">
+                        <img alt="" width="200" src="https://github.com/user-attachments/assets/d4179620-7655-4974-8784-edd0946fc37e" alt=""></img>
                     </td>
-                    <!-- 이미지 셀 -->
-                    <td style="vertical-align: top; text-align: right; width: 30%; padding-right: 0;">
-                        <img src="https://github.com/user-attachments/assets/d4179620-7655-4974-8784-edd0946fc37e" 
-                             alt="AgriBot 이미지" 
-                             style="width: 60%; height: auto; border: 1px solid #ccc;">
+                    <td colspan="4" align="center" width="75%">
+                          <h2 style="border-bottom: none;">
+                            Vehicle Software Engineer |  <br>
+                            AUTOSAR & Autonomous Driving Specialist | <br>
+                            Full-Stack Developer with Web Expertise | <br>
+                            Developer Coach & Public Speaker | <br>
+                            Innovation & Startup Enthusiast
+                          </h2>
                     </td>
                 </tr>
             </table>
