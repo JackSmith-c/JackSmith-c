@@ -103,7 +103,9 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
             <table style="width: 100%; margin-top: 10px;">
                 <tr>
                     <td colspan="2" align="center" width="50%">
-                        <img alt="" width="200" src="https://raw.githubusercontent.com/YUNSUNGWOONG/2024ESWContest_webOS_3012/main/assets/images/README/image-20241026190510507.png" alt=""></img>
+                        <img  src="https://raw.githubusercontent.com/YUNSUNGWOONG/2024ESWContest_webOS_3012/main/assets/images/README/image-20241026190510507.png" 
+                              alt="AgriBot 이미지"
+                              style="width: 200px; height: auto; border: 1px solid #ccc;></img>
                     </td>
                     <td colspan="4" align="center" width="50%">
                           <h2 style="border-bottom: none;">
