@@ -128,6 +128,34 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
   <!-- project() -->
   <tr>
     <td colspan="6" align="left">
+        <details close>
+            <summary style="font-size: 20px; font-weight: bold;">💻 TurtleBot : 터틀봇을 이용한 자율주행 차량 구현</summary>
+            <table style="width: 100%; border-collapse: collapse; margin-top: 10px;">
+                <tr>
+                    <td style="width: 70%; vertical-align: top; padding-right: 10px;">
+                        <blockquote style="font-size: 15px; font-weight: bold; margin: 0; padding-left: 10px; border-left: 4px solid #0078D7;">
+                            <p>
+                              ROS와 SLAM 등을 활용하여 시뮬레이션 학습과 모형 차량 학습을 수행
+                            </p>
+                        </blockquote>
+                        <p style="margin: 10px 0;">- 개발 기간 : 2024.02 ~</p>
+                        <p style="margin: 10px 0;">- 사용 언어 및 기술 : python, ROS, C++</p>
+                    </td>
+                    <td style="width: 30%; text-align: right; vertical-align: top;">
+                      <a href="https://github.com/YUNSUNGWOONG/DonkeyBro" target="_blank" style="text-decoration: none;">
+                        <img src="https://github.com/YUNSUNGWOONG/DonkeyBro/raw/main/images/common/README/gif1.gif" 
+                             alt="TurtleBot 이미지" 
+                             style="width: 200px !important; height: auto; border: 1px solid #ccc;">
+                      </a>
+                    </td>
+                </tr>
+            </table>
+        </details>
+    </td>
+</tr>
+<!--
+  <tr>
+    <td colspan="6" align="left">
       <details close>
         <summary style="font-size: 20px; font-weight: bold;">🔫 TurtleBot : 터틀봇을 이용한 자율주행 차량 구현</summary>
           <blockquote style="font-size: 15px; font-weight: bold;">
@@ -138,6 +166,7 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
       </details>
     </td>
   </tr> 
+-->
 
   <!-- project() -->
   <tr>
