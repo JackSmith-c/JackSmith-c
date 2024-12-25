@@ -102,10 +102,10 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
             <summary style="font-size: 20px; font-weight: bold;">💻 AgriBot : 자동화 작물공정 혁신 솔루션</summary>
             <table style="width: 100%; margin-top: 10px;">
                 <tr>
-                    <td colspan="2" align="center" width="25%">
+                    <td colspan="2" align="center" width="50%">
                         <img alt="" width="200" src="https://raw.githubusercontent.com/YUNSUNGWOONG/2024ESWContest_webOS_3012/main/assets/images/README/image-20241026190510507.png" alt=""></img>
                     </td>
-                    <td colspan="4" align="center" width="75%">
+                    <td colspan="4" align="center" width="50%">
                           <h2 style="border-bottom: none;">
                             Vehicle Software Engineer |  <br>
                             AUTOSAR & Autonomous Driving Specialist | <br>
