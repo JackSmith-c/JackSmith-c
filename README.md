@@ -162,7 +162,7 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
             <summary style="font-size: 20px; font-weight: bold;"><strong>🏢 Luminocity : 유동인구를 활용한 옥외 광고 추천 솔루션 (2024 AWS Smart City Hackathon)</strong></summary>
             <table style="width: 100%; border-collapse: collapse; margin-top: 10px;">
                 <tr>
-                    <td style="width: 70%; vertical-align: top; padding-right: 10px;">
+                    <td style="width: 65%; vertical-align: top; padding-right: 10px;">
                         <blockquote style="font-size: 15px; font-weight: bold; margin: 0; padding-left: 10px; border-left: 4px solid #0078D7;">
                             <p>
                               AWS 유동인구 데이터를 활용한 옥외광고솔루션으로, 백엔드와 아키텍처 <br>
@@ -172,7 +172,7 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
                         <p style="margin: 10px 0;">- 개발 기간 : 2024.03 ~ 2024.03</p>
                         <p style="margin: 10px 0;">- 사용 언어 및 기술 : Node.js, React, EC2, Simplify, S3 Storage</p>
                     </td>
-                    <td style="width: 30%; text-align: right; vertical-align: top;">
+                    <td style="width: 35%; text-align: right; vertical-align: top;">
                       <a href="https://github.com/YUNSUNGWOONG/DonkeyBro" target="_blank" style="text-decoration: none;">
                         <img src="https://github.com/user-attachments/assets/3d530c58-0197-4496-af7f-59a7b3fc7e56" 
                              alt="TurtleBot 이미지" width="220px"
