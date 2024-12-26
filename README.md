@@ -165,7 +165,8 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
                     <td style="width: 70%; vertical-align: top; padding-right: 10px;">
                         <blockquote style="font-size: 15px; font-weight: bold; margin: 0; padding-left: 10px; border-left: 4px solid #0078D7;">
                             <p>
-                              AWS 유동인구 데이터를 활용한 옥외광고솔루션으로, 백엔드와 아키텍처 설계에 기여함.
+                              AWS 유동인구 데이터를 활용한 옥외광고솔루션으로, 백엔드와 <br>
+                              아키텍처 설계에 기여함.
                             </p>
                         </blockquote>
                         <p style="margin: 10px 0;">- 개발 기간 : 2024.03 ~ 2024.03</p>
