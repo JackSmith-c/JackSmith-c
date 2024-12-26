@@ -176,7 +176,7 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
                       <a href="https://github.com/YUNSUNGWOONG/DonkeyBro" target="_blank" style="text-decoration: none;">
                         <img src="https://github.com/user-attachments/assets/3d530c58-0197-4496-af7f-59a7b3fc7e56" 
                              alt="TurtleBot 이미지" width="220px"
-                             style="width: 60%; height: auto; border: 1px solid #ccc;">
+                             style="width: 75%; height: auto; border: 1px solid #ccc;">
                       </a>
                     </td>
                 </tr>
