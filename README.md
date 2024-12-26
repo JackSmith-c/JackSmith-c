@@ -130,7 +130,7 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
   <tr>
     <td colspan="6" align="left">
         <details close>
-            <summary style="font-size: 20px; font-weight: bold;">💻 TurtleBot : 터틀봇을 이용한 자율주행 차량 구현</summary>
+            <summary style="font-size: 20px; font-weight: bold;"><strong>💻 TurtleBot : 터틀봇을 이용한 자율주행 차량 구현</strong></summary>
             <table style="width: 100%; border-collapse: collapse; margin-top: 10px;">
                 <tr>
                     <td style="width: 70%; vertical-align: top; padding-right: 10px;">
@@ -155,22 +155,35 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
     </td>
 </tr>
 
-<!--
+  <!-- project() -->
   <tr>
     <td colspan="6" align="left">
-      <details close>
-        <summary style="font-size: 20px; font-weight: bold;">🔫 TurtleBot : 터틀봇을 이용한 자율주행 차량 구현</summary>
-          <blockquote style="font-size: 15px; font-weight: bold;">
-            <p>ROS와 SLAM 등을 활용하여 시뮬레이션 학습과 모형 차량 학습을 수행</p>
-          </blockquote>
-            <p>- 개발 기간 : 2024.02 ~</p>
-            <p>- 사용 언어 및 기술 : python, ROS, C++</p>
-      </details>
+        <details close>
+            <summary style="font-size: 20px; font-weight: bold;"><strong>🏢 Luminocity : 유동인구를 활용한 옥외 광고 추천 솔루션 (2024 AWS Smart City Hackathon)</strong></summary>
+            <table style="width: 100%; border-collapse: collapse; margin-top: 10px;">
+                <tr>
+                    <td style="width: 70%; vertical-align: top; padding-right: 10px;">
+                        <blockquote style="font-size: 15px; font-weight: bold; margin: 0; padding-left: 10px; border-left: 4px solid #0078D7;">
+                            <p>
+                              AWS 유동인구 데이터를 활용한 옥외광고솔루션으로, 백엔드와 아키텍처 설계에 기여함.
+                            </p>
+                        </blockquote>
+                        <p style="margin: 10px 0;">- 개발 기간 : 2024.03 ~ 2024.03</p>
+                        <p style="margin: 10px 0;">- 사용 언어 및 기술 : Node.js, React, EC2, Simplify, S3 Storage</p>
+                    </td>
+                    <td style="width: 30%; text-align: right; vertical-align: top;">
+                      <a href="https://github.com/YUNSUNGWOONG/DonkeyBro" target="_blank" style="text-decoration: none;">
+                        <img src="https://github.com/YUNSUNGWOONG/DonkeyBro/raw/main/images/common/README/gif1.gif" 
+                             alt="TurtleBot 이미지" width="220px"
+                             style="width: 60%; height: auto; border: 1px solid #ccc;">
+                      </a>
+                    </td>
+                </tr>
+            </table>
+        </details>
     </td>
-  </tr> 
--->
+</tr>
 
-  <!-- project() -->
   <tr>
     <td colspan="6" align="left">
       <details close>
@@ -330,7 +343,7 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
   </tr>
   <tr>
   <td colspan="3" align="left">
-    <h3>👨🏻‍💻 English Proficiency</h3>
+    <h3>🌐 English Proficiency</h3>
     ▶ TOEIC: XXX<br>
     ▶ TOFEL: XXX<br>
   </td>
@@ -344,16 +357,16 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
 
   <tr>
     <th colspan="6" align="center" width="360">
-      <h3><a href="/README.md#-plugins">📞 Activity(활동한거, 학부생,알바, 학교, 군대)
+      <h3><a href="/README.md#-plugins">✅ Activity(활동한거, 학부생,알바, 학교, 군대)
       </a></h3>
     </th>
   </tr>
   <tr>
   <td colspan="6" align="left" width="360">
-    <h3>👨🏻‍💻 직장 </h3>
+    <h3>💼 직장 </h3>
     ▶ 소프트웨어 엔지니어 - 공군 군수사령부 융합체계과(풀타임)<br>
     ▶ 디지털 마케터 - 톡톡외국어(아카데미)<br>
-    <h3>👨🏻‍💻 연구 </h3>
+    <h3>🔬 연구 </h3>
     ▶ 학생연구원 - 자율군집SW연구센터<br>
     ▶ 학부연구생 - ISPL 연구실<br>
   </td>
