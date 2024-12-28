@@ -67,35 +67,37 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
   </tr>
 
   <!-- project() -->
-<!--
   <tr>
     <td colspan="6" align="left">
         <details close>
-            <summary style="font-size: 20px; font-weight: bold;">💻 AgriBot : 자동화 작물공정 혁신 솔루션</summary>
+            <summary style="font-size: 20px; font-weight: bold;"><strong>💻 AgriBot : 자동화 작물공정 혁신 솔루션</strong></summary>
             <table style="width: 100%; border-collapse: collapse; margin-top: 10px;">
                 <tr>
-                    <td style="width: 72%; vertical-align: top; padding-right: 10px;">
+                    <td style="width: 70%; vertical-align: top; padding-right: 10px;">
                         <blockquote style="font-size: 15px; font-weight: bold; margin: 0; padding-left: 10px; border-left: 4px solid #0078D7;">
                             <p>
-                                webOS의 제어 아래에 ROS 기반의 자동수확로봇인 <br>
-                                HaviBot과 Yolo 기반의 HueBot을 활용하여 <br>
-                                수확부터 분류까지 전체 과정을 완전자동화함.
+                              webOS의 제어 아래에 ROS 기반의 자동수확로봇인 HaviBot과 Yolo<br>
+                              기반의 HueBot을 활용하여 수확부터 분류까지 전체 과정을 <br>
+                              완전자동화함.
                             </p>
                         </blockquote>
-                        <p style="margin: 10px 0;">- 개발 기간: 2024.07 ~ 2024.11</p>
-                        <p style="margin: 10px 0;">- 사용 언어 및 기술: Python, ROS, C++, webOS</p>
+                        <p style="margin: 10px 0;">- 개발 기간 : 2024.02 ~</p>
+                        <p style="margin: 10px 0;">- 사용 언어 및 기술 : python, ROS, C++</p>
                     </td>
-                    <td style="width: 28%; text-align: right; vertical-align: top;">
+                    <td style="width: 30%; text-align: right; vertical-align: top;">
+                      <a href="https://github.com/YUNSUNGWOONG/2024ESWContest_webOS_3012" target="_blank" style="text-decoration: none;">
                         <img src="https://raw.githubusercontent.com/YUNSUNGWOONG/2024ESWContest_webOS_3012/main/assets/images/README/image-20241026190510507.png" 
                              alt="AgriBot 이미지" 
-                             style="width: 200px; height: auto; border: 1px solid #ccc;">
+                             style="width: 220px !important; height: auto; border: 1px solid #ccc;!important">
+                      </a>
                     </td>
                 </tr>
             </table>
         </details>
     </td>
 </tr>
--->
+
+<!-- 
   <tr>
     <td colspan="6" align="left">
         <details close>
@@ -124,13 +126,13 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
             </table>
         </details>
     </td>
-</tr>
+</tr> -->
 
   <!-- project() -->
   <tr>
     <td colspan="6" align="left">
         <details close>
-            <summary style="font-size: 20px; font-weight: bold;"><strong>💻 TurtleBot : 터틀봇을 이용한 자율주행 차량 구현</strong></summary>
+            <summary style="font-size: 20px; font-weight: bold;"><strong>🚘︎ TurtleBot : 터틀봇을 이용한 자율주행 차량 구현</strong></summary>
             <table style="width: 100%; border-collapse: collapse; margin-top: 10px;">
                 <tr>
                     <td style="width: 70%; vertical-align: top; padding-right: 10px;">
@@ -144,7 +146,7 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
                     </td>
                     <td style="width: 30%; text-align: right; vertical-align: top;">
                       <a href="https://github.com/YUNSUNGWOONG/DonkeyBro" target="_blank" style="text-decoration: none;">
-                        <img src="https://github.com/YUNSUNGWOONG/DonkeyBro/raw/main/images/common/README/gif1.gif" 
+                        <img src="https://github.com/user-attachments/assets/bbe9699a-8847-4a89-84ee-a15ee093ec4b" 
                              alt="TurtleBot 이미지" width="220px"
                              style="width: 60%; height: auto; border: 1px solid #ccc;">
                       </a>
@@ -185,20 +187,35 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
     </td>
 </tr>
 
-  <tr>
-    <td colspan="6" align="left">
-      <details close>
-        <summary style="font-size: 20px; font-weight: bold;">🔫 Luminocity : 유동인구를 활용한 옥외 광고 추천 솔루션 (2024 AWS Smart City Hackathon)</summary>
-          <blockquote style="font-size: 15px; font-weight: bold;">
-            <p>AWS 유동인구 데이터를 활용한 옥외광고솔루션으로, 백엔드와 아키텍처 설계에 기여함.</p>
-          </blockquote>
-            <p>- 개발 기간 : 2024.03 ~ 2024.03</p>
-            <p>- 사용 언어 및 기술 : Node.js, React, EC2, Simplify, S3 Storage</p>
-      </details>
-    </td>
-  </tr> 
 
   <!-- project() -->
+  <tr>
+    <td colspan="6" align="left">
+        <details close>
+            <summary style="font-size: 20px; font-weight: bold;"><strong>🚘︎ DonkeyCar : 동키카를 이용한 자율주행 차량 구현</strong></summary>
+            <table style="width: 100%; border-collapse: collapse; margin-top: 10px;">
+                <tr>
+                    <td style="width: 70%; vertical-align: top; padding-right: 10px;">
+                        <blockquote style="font-size: 15px; font-weight: bold; margin: 0; padding-left: 10px; border-left: 4px solid #0078D7;">
+                            <p>
+                              ROS와 SLAM 등을 활용하여 시뮬레이션 학습과 모형 차량 학습을 수행
+                            </p>
+                        </blockquote>
+                        <p style="margin: 10px 0;">- 개발 기간 : 2024.02 ~</p>
+                        <p style="margin: 10px 0;">- 사용 언어 및 기술 : python, ROS, C++</p>
+                    </td>
+                    <td style="width: 30%; text-align: right; vertical-align: top;">
+                      <a href="https://github.com/YUNSUNGWOONG/DonkeyBro" target="_blank" style="text-decoration: none;">
+                        <img src="https://github.com/YUNSUNGWOONG/DonkeyBro/raw/main/images/common/README/gif1.gif" 
+                             alt="TurtleBot 이미지" width="220px"
+                             style="width: 60%; height: auto; border: 1px solid #ccc;">
+                      </a>
+                    </td>
+                </tr>
+            </table>
+        </details>
+    </td>
+</tr>
   <tr>
     <td colspan="6" align="left">
       <details close>
