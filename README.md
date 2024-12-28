@@ -351,16 +351,32 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
   <!-- project() -->
   <tr>
     <td colspan="6" align="left">
-      <details close>
-        <summary style="font-size: 20px; font-weight: bold;">🛦 Logistics Command, Human rights level self-assessment system : 군수사령부, 인권수준자체진단체계 개발</summary>
-          <blockquote style="font-size: 15px; font-weight: bold;">
-            <p>인권수준 자체진단체계를 개발하여 코로나상황에 실무자들이 인권수준을 빠르게 조사하고 체계적으로 집계하는데 기여함</p>
-          </blockquote>
-            <p>- 개발 기간 : 2021.6 ~ 2022.11</p>
-            <p>- 사용 언어 및 기술 : Java8, Spring(4.3.29), tibero, tui-chart</p>
-      </details>
+        <details close>
+            <summary style="font-size: 20px; font-weight: bold;"><strong>🛦 Logistics Command, Human rights level self-assessment system : 인권수준자체진단체계</strong></summary>
+            <table style="width: 100%; border-collapse: collapse; margin-top: 10px;">
+                <tr>
+                    <td style="width: 70%; vertical-align: top; padding-right: 10px;">
+                        <blockquote style="font-size: 15px; font-weight: bold; margin: 0; padding-left: 10px; border-left: 4px solid #0078D7;">
+                            <p>
+                              '군수사령부' 인권수준 자체진단체계를 개발하여 코로나상황에<br> 
+                              실무자들이 인권수준을 빠르게 조사하고 체계적으로 집계하는데 기여함
+                            </p>
+                        </blockquote>
+                        <p style="margin: 10px 0;">- 개발 기간 : 2021.6 ~ 2022.11</p>
+                        <p style="margin: 10px 0;">- 사용 언어 및 기술 : Java8, Spring(4.3.29), tibero, tui-chart</p>
+                    </td>
+                    <td style="width: 30%; text-align: right; vertical-align: top;">
+                      <a href="#-curriculum-vitae" target="_blank" style="text-decoration: none;">
+                        <img src="https://github.com/user-attachments/assets/a2359342-e4f5-480f-9772-001896b546d8" 
+                             alt="Airforce image" 
+                             style="width: 230px; height: auto; border: 1px solid #ccc;!important">
+                      </a>
+                    </td>
+                </tr>
+            </table>
+        </details>
     </td>
-  </tr> 
+</tr> 
 
   <!-- project() -->
   <tr>
