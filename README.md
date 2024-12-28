@@ -333,8 +333,7 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
                             </p>
                         </blockquote>
                         <p style="margin: 10px 0;">- 개발 기간 : 2022.01 ~ 2022.07</p>
-                        <p style="margin: 10px 0;">- 사용 언어 및 기술 : Java8, Spring(4.3.29), tibero, WebGL, <br>
-                        PdfJs, tui-chart</p>
+                        <p style="margin: 10px 0;">- 사용 언어 및 기술 : Java8, Spring, tibero, WebGL, PdfJs</p>
                     </td>
                     <td style="width: 30%; text-align: right; vertical-align: top;">
                       <a href="#-curriculum-vitae" target="_blank" style="text-decoration: none;">
