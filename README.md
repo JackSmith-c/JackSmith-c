@@ -324,10 +324,12 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
                     <td style="width: 70%; vertical-align: top; padding-right: 10px;">
                         <blockquote style="font-size: 15px; font-weight: bold; margin: 0; padding-left: 10px; border-left: 4px solid #0078D7;">
                             <p>
-                              1>'항공기술연구소' KT-100 Dis-Bonding 이력관리 체계를 개발하여 <br>
-                              선제적인 정비강화와 다빈도 기골결함에 대해 신속히 조치할 수 있도록 기여함 <br>
-                              2>'항공자원관리단' F-16 계열 항공기 Damage Map을 개발하여 선제적인 <br>
-                              정비강화와 다빈도 기골결함에 대해 신속히 조치할 수 있도록 기여함
+                              1>'항공기술연구소' KT-100 Dis-Bonding 이력관리 체계를<br>
+                              개발하여 선제적인 정비강화와 다빈도 기골결함에 대해 신속히<br>
+                              조치할 수 있도록 기여함<br>
+                              2>'항공자원관리단' F-16 계열 항공기 Damage Map을 개발하여<br>
+                              선제적인 정비강화와 다빈도 기골결함에 대해 신속히 조치할<br>
+                              수 있도록 기여함
                             </p>
                         </blockquote>
                         <p style="margin: 10px 0;">- 개발 기간 : 2022.01 ~ 2022.07</p>
