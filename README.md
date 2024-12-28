@@ -304,7 +304,7 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
                       <a href="#-curriculum-vitae" target="_blank" style="text-decoration: none;">
                         <img src="https://github.com/user-attachments/assets/a2359342-e4f5-480f-9772-001896b546d8" 
                              alt="Airforce image" 
-                             style="width: 250px !important; height: auto; border: 1px solid #ccc;!important">
+                             style="width: 220px !important; height: auto; border: 1px solid #ccc;!important">
                       </a>
                     </td>
                 </tr>
