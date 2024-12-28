@@ -359,7 +359,8 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
                         <blockquote style="font-size: 15px; font-weight: bold; margin: 0; padding-left: 10px; border-left: 4px solid #0078D7;">
                             <p>
                               '군수사령부' 인권수준 자체진단체계를 개발하여 코로나상황에<br> 
-                              실무자들이 인권수준을 빠르게 조사하고 체계적으로 집계하는데 기여함
+                              실무자들이 인권수준을 빠르게 조사하고 체계적으로 집계하는데<br>
+                              기여함
                             </p>
                         </blockquote>
                         <p style="margin: 10px 0;">- 개발 기간 : 2021.6 ~ 2022.11</p>
