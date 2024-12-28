@@ -145,7 +145,7 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
                         <p style="margin: 10px 0;">- 사용 언어 및 기술 : python, ROS, C++</p>
                     </td>
                     <td style="width: 30%; text-align: right; vertical-align: top;">
-                      <a href="https://github.com/YUNSUNGWOONG/DonkeyBro" target="_blank" style="text-decoration: none;">
+                      <a href="https://github.com/YUNSUNGWOONG/TurtleBro" target="_blank" style="text-decoration: none;">
                         <img src="https://github.com/user-attachments/assets/bbe9699a-8847-4a89-84ee-a15ee093ec4b" 
                              alt="TurtleBot 이미지" width="220px"
                              style="width: 60%; height: auto; border: 1px solid #ccc;">
@@ -178,7 +178,7 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
                       <a href="https://github.com/YUNSUNGWOONG/DonkeyBro" target="_blank" style="text-decoration: none;">
                         <img src="https://github.com/user-attachments/assets/3d530c58-0197-4496-af7f-59a7b3fc7e56" 
                              alt="TurtleBot 이미지" width="220px"
-                             style="width: 75%; height: auto; border: 1px solid #ccc;">
+                             style="width: 60%; height: auto; border: 1px solid #ccc;">
                       </a>
                     </td>
                 </tr>
