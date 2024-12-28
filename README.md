@@ -379,7 +379,7 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
 
   <tr>
     <th colspan="6" align="center">
-      <h3><a href="/README.md#-plugins">📞 Others(어학성적, 자격증)
+      <h3><a href="/README.md#-plugins">🎓 Others(어학성적, 자격증)
       </a></h3>
     </th>
   </tr>
@@ -417,7 +417,7 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
 
   <tr>
     <th colspan="6" align="center" width="360">
-      <h3><a href="/README.md#-plugins">📞 Web Development Skills
+      <h3><a href="/README.md#-plugins">⚔️ Web Development Skills
       </a></h3>
     </th>
   </tr>
@@ -466,7 +466,7 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
 
   <tr>
     <th colspan="6" align="center" width="360">
-      <h3><a href="/README.md#-plugins">📞 Mobility Development Skills
+      <h3><a href="/README.md#-plugins">🛠️ Mobility Development Skills
       </a></h3>
     </th>
   </tr>
