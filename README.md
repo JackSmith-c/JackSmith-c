@@ -218,20 +218,38 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
         </details>
     </td>
 </tr>
-  <tr>
-    <td colspan="6" align="left">
-      <details close>
-        <summary style="font-size: 20px; font-weight: bold;">🔫 DonkeyCar : 동키카를 이용한 자율주행 차량 구현 </summary>
-          <blockquote style="font-size: 15px; font-weight: bold;">
-            <p>텐서플로우와 케라스 등을 활용하여 시뮬레이션 학습과 모형 차량 학습을 수행</p>
-          </blockquote>
-            <p>- 개발 기간 : 2023.08 ~</p>
-            <p>- 사용 언어 및 기술 : python, turbo framework, RaspberryPi4, Linux, putty, jenkins, Jira</p>
-      </details>
-    </td>
-  </tr> 
+
 
   <!-- project() -->
+  <tr>
+    <td colspan="6" align="left">
+        <details close>
+            <summary style="font-size: 20px; font-weight: bold;"><strong>🛗 S32K144 : 엘리베이터 제작 및 구현</strong></summary>
+            <table style="width: 100%; border-collapse: collapse; margin-top: 10px;">
+                <tr>
+                    <td style="width: 70%; vertical-align: top; padding-right: 10px;">
+                        <blockquote style="font-size: 15px; font-weight: bold; margin: 0; padding-left: 10px; border-left: 4px solid #0078D7;">
+                            <p>
+                              uVision IDE를 활용하여 엘리베이터 기능 설계와 제작 및 테스트
+                            </p>
+                        </blockquote>
+                        <p style="margin: 10px 0;">- 개발 기간 : 2023.11 ~ 2023.12</p>
+                        <p style="margin: 10px 0;">- 사용 언어 및 기술 : C</p>
+                    </td>
+                    <td style="width: 30%; text-align: right; vertical-align: top;">
+                      <a href="https://github.com/YUNSUNGWOONG/Manila" target="_blank" style="text-decoration: none;">
+                        <img src="https://github.com/user-attachments/assets/26305cd2-748a-47fa-bf1e-c5c15a71002c" 
+                             alt="TurtleBot 이미지" width="220px"
+                             style="width: 60%; height: auto; border: 1px solid #ccc;">
+                      </a>
+                    </td>
+                </tr>
+            </table>
+        </details>
+    </td>
+</tr>
+
+
   <tr>
     <td colspan="6" align="left">
       <details close>
