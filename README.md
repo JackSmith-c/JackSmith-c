@@ -291,7 +291,7 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
                     <td style="width: 70%; vertical-align: top; padding-right: 10px;">
                         <blockquote style="font-size: 15px; font-weight: bold; margin: 0; padding-left: 10px; border-left: 4px solid #0078D7;">
                             <p>
-                              학부과정 `파이썬 프로그래밍` 수업에서 텀프로젝트로<br>
+                              학부과정 `파이썬 프로그래밍` 수업에서 텀프로젝트 일환으로<br>
                                제작한 스터디카페 키오스크
                             </p>
                         </blockquote>
