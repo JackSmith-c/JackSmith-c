@@ -201,8 +201,8 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
                               ROS와 SLAM 등을 활용하여 시뮬레이션 학습과 모형 차량 학습을 수행
                             </p>
                         </blockquote>
-                        <p style="margin: 10px 0;">- 개발 기간 : 2024.02 ~</p>
-                        <p style="margin: 10px 0;">- 사용 언어 및 기술 : python, ROS, C++</p>
+                        <p style="margin: 10px 0;">- 개발 기간 : 2023.08 ~</p>
+                        <p style="margin: 10px 0;">- 사용 언어 및 기술 : python, turbo framework, RaspberryPi4, Linux, putty, jenkins, Jira</p>
                     </td>
                     <td style="width: 30%; text-align: right; vertical-align: top;">
                       <a href="https://github.com/YUNSUNGWOONG/DonkeyBro" target="_blank" style="text-decoration: none;">
