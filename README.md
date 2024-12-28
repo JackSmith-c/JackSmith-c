@@ -317,17 +317,34 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
   <!-- project() -->
   <tr>
     <td colspan="6" align="left">
-      <details close>
-        <summary style="font-size: 20px; font-weight: bold;">🛦 Aviation Technology Research Institute, Aircraft Record Management System : 항공기술연구소, 항공기이력관리체계 (KT-100 Dis-Bonding 이력관리체계 + F-16계열 항공기 Damage Map)</summary>
-          <blockquote style="font-size: 15px; font-weight: bold;">
-            <p>1>KT-100 Dis-Bonding 이력관리 체계를 개발하여 선제적인 정비강화와 다빈도 기골결함에 대해 신속히 조치할 수 있도록 기여함</p>
-            <p>2>F-16 계열 항공기 Damage Map을 개발하여 선제적인 정비강화와 다빈도 기골결함에 대해 신속히 조치할 수 있도록 기여함</p>
-          </blockquote>
-            <p>- 개발 기간 : 2022.01 ~ 2022.07</p>
-            <p>- 사용 언어 및 기술 : Java8, Spring(4.3.29), tibero, WebGL, PdfJs, tui-chart</p>
-      </details>
+        <details close>
+            <summary style="font-size: 20px; font-weight: bold;"><strong>🛦 Aviation Technology Research Institute, Aircraft Record Management System : 항공기이력관리체계</strong></summary>
+            <table style="width: 100%; border-collapse: collapse; margin-top: 10px;">
+                <tr>
+                    <td style="width: 70%; vertical-align: top; padding-right: 10px;">
+                        <blockquote style="font-size: 15px; font-weight: bold; margin: 0; padding-left: 10px; border-left: 4px solid #0078D7;">
+                            <p>
+                              1>'항공기술연구소' KT-100 Dis-Bonding 이력관리 체계를 개발하여 <br>
+                              선제적인 정비강화와 다빈도 기골결함에 대해 신속히 조치할 수 있도록 기여함 <br>
+                              2>'항공자원관리단' F-16 계열 항공기 Damage Map을 개발하여 선제적인 <br>
+                              정비강화와 다빈도 기골결함에 대해 신속히 조치할 수 있도록 기여함
+                            </p>
+                        </blockquote>
+                        <p style="margin: 10px 0;">- 개발 기간 : 2022.01 ~ 2022.07</p>
+                        <p style="margin: 10px 0;">- 사용 언어 및 기술 : Java8, Spring(4.3.29), tibero, WebGL, PdfJs, tui-chart</p>
+                    </td>
+                    <td style="width: 30%; text-align: right; vertical-align: top;">
+                      <a href="#-curriculum-vitae" target="_blank" style="text-decoration: none;">
+                        <img src="https://github.com/user-attachments/assets/a2359342-e4f5-480f-9772-001896b546d8" 
+                             alt="Airforce image" 
+                             style="width: 230px; height: auto; border: 1px solid #ccc;!important">
+                      </a>
+                    </td>
+                </tr>
+            </table>
+        </details>
     </td>
-  </tr> 
+</tr>
 
   <!-- project() -->
   <tr>
