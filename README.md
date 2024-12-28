@@ -303,8 +303,8 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
                     <td style="width: 30%; text-align: right; vertical-align: top;">
                       <a href="#-curriculum-vitae" target="_blank" style="text-decoration: none;">
                         <img src="https://github.com/user-attachments/assets/6d563a31-23c6-4b18-94cf-c711b639cbe0" 
-                             alt="AgriBot 이미지" 
-                             style="width: 220px !important; height: auto; border: 1px solid #ccc;!important">
+                             alt="Airforce image" 
+                             style="width: 250px !important; height: auto; border: 1px solid #ccc;!important">
                       </a>
                     </td>
                 </tr>
