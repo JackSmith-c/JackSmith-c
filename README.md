@@ -253,16 +253,33 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
   <!-- project() -->
   <tr>
     <td colspan="6" align="left">
-      <details close>
-        <summary style="font-size: 20px; font-weight: bold;">🔫 Autonomous monitoring system suitable for the autonomous driving era, PCSAPS : 보행자보호시스탬 </summary>
-          <blockquote style="font-size: 15px; font-weight: bold;">
-            <p>학부과정 `창의공학설계` 수업에서 텀프로젝트로 제작한, 라즈베리파이와 아두이노를 활용한 PCSAPS(보행자보호시스템) 제작 및 구현</p>
-          </blockquote>
-            <p>- 개발 기간 : 2023.11 ~ 2023.12</p>
-            <p>- 사용 언어 및 기술 : C, Python, OpenCV</p>
-      </details>
+        <details close>
+            <summary style="font-size: 20px; font-weight: bold;"><strong>🚘︎ Autonomous monitoring system suitable for the autonomous driving era, PCSAPS : 보행자보호시스탬</strong></summary>
+            <table style="width: 100%; border-collapse: collapse; margin-top: 10px;">
+                <tr>
+                    <td style="width: 70%; vertical-align: top; padding-right: 10px;">
+                        <blockquote style="font-size: 15px; font-weight: bold; margin: 0; padding-left: 10px; border-left: 4px solid #0078D7;">
+                            <p>
+                              학부과정 `창의공학설계` 수업에서 텀프로젝트로 제작한, 라즈베리<br>
+                              파이와 아두이노를 활용한 PCSAPS(보행자보호시스템) 제작 및 구현
+                            </p>
+                        </blockquote>
+                        <p style="margin: 10px 0;">- 개발 기간 : 2023.11 ~ 2023.12</p>
+                        <p style="margin: 10px 0;">- 사용 언어 및 기술 : C, Python, OpenCV<br> 
+                        </p>
+                    </td>
+                    <td style="width: 30%; text-align: right; vertical-align: top;">
+                      <a href="https://github.com/YUNSUNGWOONG/DonkeyBro" target="_blank" style="text-decoration: none;">
+                        <img src="https://github.com/YUNSUNGWOONG/DonkeyBro/raw/main/images/common/README/gif1.gif" 
+                             alt="TurtleBot 이미지" width="220px"
+                             style="width: 60%; height: auto; border: 1px solid #ccc;">
+                      </a>
+                    </td>
+                </tr>
+            </table>
+        </details>
     </td>
-  </tr> 
+</tr>
 
   <!-- project() -->
   <tr>
