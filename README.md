@@ -97,36 +97,6 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
     </td>
 </tr>
 
-<!-- 
-  <tr>
-    <td colspan="6" align="left">
-        <details close>
-            <summary><strong>💻 AgriBot : 자동화 작물공정 혁신 솔루션</strong></summary>
-            <table style="width: 100%; border-collapse: collapse; margin-top: 10px;">
-                <tr>
-                    <td style="width: 70%; vertical-align: top; padding-right: 10px;">
-                        <blockquote style="font-size: 15px; font-weight: bold; margin: 0; padding-left: 10px; border-left: 4px solid #0078D7;">
-                            <p>
-                                webOS의 제어 아래에 ROS 기반의 자동수확로봇인 HaviBot과 Yolo &nbsp;<br>
-                                기반의 HueBot을 활용하여 수확부터 분류까지 전체 과정을 <br>
-                                완전자동화함.
-                            </p>
-                        </blockquote>
-                        <p style="margin: 10px 0;">- 개발 기간: 2024.07 ~ 2024.11</p>
-                        <p style="margin: 10px 0;">- 사용 언어 및 기술: Python, ROS, C++, webOS</p>
-                    </td>
-                    <td style="width: 30%; text-align: right; vertical-align: top;">
-                      <a href="https://github.com/YUNSUNGWOONG/2024ESWContest_webOS_3012" target="_blank" style="text-decoration: none;">
-                        <img src="https://raw.githubusercontent.com/YUNSUNGWOONG/2024ESWContest_webOS_3012/main/assets/images/README/image-20241026190510507.png" 
-                             alt="AgriBot 이미지" 
-                             style="width: 220px !important; height: auto; border: 1px solid #ccc;!important">
-                      </a>
-                    </td>
-                </tr>
-            </table>
-        </details>
-    </td>
-</tr> -->
 
   <!-- project() -->
   <tr>
@@ -315,22 +285,40 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
   <!-- project() -->
   <tr>
     <td colspan="6" align="left">
-      <details close>
-        <summary style="font-size: 20px; font-weight: bold;">🔫 Air Defense Control Command, Maintenance Case Management System : 방공관제사령부, 정비사례 관리체계</summary>
-          <blockquote style="font-size: 15px; font-weight: bold;">
-            <p>'방공관제사령부(現, 미사일방어사령부) 정비사례 관리체계’를 개발하여 방공관제사령부 예하 전대, 관제부대에 대한 “레이다 고장정비 종합관리”의 행정업무를 간소화하는데 기여함</p>
-          </blockquote>
-            <p>- 개발 기간 : 2022.6 ~ 2022.11</p>
-            <p>- 사용 언어 및 기술 : Java8, Spring(4.3.29), tibero, jquery, tui-chart</p>
-      </details>
+        <details close>
+            <summary style="font-size: 20px; font-weight: bold;"><strong>🛦 Air Defense Control Command, Maintenance Case Management System : 방공관제사령부, 정비사례 관리체계</strong></summary>
+            <table style="width: 100%; border-collapse: collapse; margin-top: 10px;">
+                <tr>
+                    <td style="width: 70%; vertical-align: top; padding-right: 10px;">
+                        <blockquote style="font-size: 15px; font-weight: bold; margin: 0; padding-left: 10px; border-left: 4px solid #0078D7;">
+                            <p>
+                              '방공관제사령부(現, 미사일방어사령부) 정비사례 관리체계’를 개발하여 <br>
+                              방공관제사령부 예하 전대, 관제부대에 대한 “레이다 고장정비 종합관리”의 <br>
+                              행정업무를 간소화하는데 기여함
+                            </p>
+                        </blockquote>
+                        <p style="margin: 10px 0;">- 개발 기간 : 2022.6 ~ 2022.11</p>
+                        <p style="margin: 10px 0;">- 사용 언어 및 기술 : Java8, Spring(4.3.29), tibero, jquery, tui-chart</p>
+                    </td>
+                    <td style="width: 30%; text-align: right; vertical-align: top;">
+                      <a href="#-curriculum-vitae" target="_blank" style="text-decoration: none;">
+                        <img src="https://raw.githubusercontent.com/YUNSUNGWOONG/2024ESWContest_webOS_3012/main/assets/images/README/image-20241026190510507.png" 
+                             alt="AgriBot 이미지" 
+                             style="width: 220px !important; height: auto; border: 1px solid #ccc;!important">
+                      </a>
+                    </td>
+                </tr>
+            </table>
+        </details>
     </td>
-  </tr> 
+</tr>
+
 
   <!-- project() -->
   <tr>
     <td colspan="6" align="left">
       <details close>
-        <summary style="font-size: 20px; font-weight: bold;">🔫 Aviation Technology Research Institute, Aircraft Record Management System : 항공기술연구소, 항공기이력관리체계 (KT-100 Dis-Bonding 이력관리체계 + F-16계열 항공기 Damage Map)</summary>
+        <summary style="font-size: 20px; font-weight: bold;">🛦 Aviation Technology Research Institute, Aircraft Record Management System : 항공기술연구소, 항공기이력관리체계 (KT-100 Dis-Bonding 이력관리체계 + F-16계열 항공기 Damage Map)</summary>
           <blockquote style="font-size: 15px; font-weight: bold;">
             <p>1>KT-100 Dis-Bonding 이력관리 체계를 개발하여 선제적인 정비강화와 다빈도 기골결함에 대해 신속히 조치할 수 있도록 기여함</p>
             <p>2>F-16 계열 항공기 Damage Map을 개발하여 선제적인 정비강화와 다빈도 기골결함에 대해 신속히 조치할 수 있도록 기여함</p>
@@ -345,7 +333,7 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
   <tr>
     <td colspan="6" align="left">
       <details close>
-        <summary style="font-size: 20px; font-weight: bold;">🔫 Logistics Command, Human rights level self-assessment system : 군수사령부, 인권수준자체진단체계 개발</summary>
+        <summary style="font-size: 20px; font-weight: bold;">🛦 Logistics Command, Human rights level self-assessment system : 군수사령부, 인권수준자체진단체계 개발</summary>
           <blockquote style="font-size: 15px; font-weight: bold;">
             <p>인권수준 자체진단체계를 개발하여 코로나상황에 실무자들이 인권수준을 빠르게 조사하고 체계적으로 집계하는데 기여함</p>
           </blockquote>
@@ -359,7 +347,7 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
   <tr>
     <td colspan="6" align="left">
       <details close>
-        <summary style="font-size: 20px; font-weight: bold;">🔫  K-TCG : K-TCG 인터넷 홈페이지 유지보수 및 테스트</summary>
+        <summary style="font-size: 20px; font-weight: bold;">🛦  K-TCG : K-TCG 인터넷 홈페이지 유지보수 및 테스트</summary>
           <blockquote style="font-size: 15px; font-weight: bold;">
             <p>K-TCG 인터넷 홈페이지를 유지보수에 기여하여 타국 항공기에 대한 선제적인 정비강화와 다빈도 기골결함에 대해 신속히 조치할 수 있도록 기여함</p>
           </blockquote>
