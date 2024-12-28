@@ -286,7 +286,7 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
   <tr>
     <td colspan="6" align="left">
         <details close>
-            <summary style="font-size: 20px; font-weight: bold;"><strong>🛦 Air Defense Control Command, Maintenance Case Management System : 방공관제사령부, 정비사례 관리체계</strong></summary>
+            <summary style="font-size: 20px; font-weight: bold;"><strong>🛦 Air Defense Control Command, Maintenance Case Management System : 정비사례 관리체계</strong></summary>
             <table style="width: 100%; border-collapse: collapse; margin-top: 10px;">
                 <tr>
                     <td style="width: 70%; vertical-align: top; padding-right: 10px;">
