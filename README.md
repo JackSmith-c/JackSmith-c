@@ -326,14 +326,15 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
                             <p>
                               1>'항공기술연구소' KT-100 Dis-Bonding 이력관리 체계를<br>
                               개발하여 선제적인 정비강화와 다빈도 기골결함에 대해 신속히<br>
-                              조치할 수 있도록 기여함<br>
+                              조치할 수 있도록 기여함<br><br>
                               2>'항공자원관리단' F-16 계열 항공기 Damage Map을 개발하여<br>
                               선제적인 정비강화와 다빈도 기골결함에 대해 신속히 조치할<br>
                               수 있도록 기여함
                             </p>
                         </blockquote>
                         <p style="margin: 10px 0;">- 개발 기간 : 2022.01 ~ 2022.07</p>
-                        <p style="margin: 10px 0;">- 사용 언어 및 기술 : Java8, Spring(4.3.29), tibero, WebGL, PdfJs, tui-chart</p>
+                        <p style="margin: 10px 0;">- 사용 언어 및 기술 : Java8, Spring(4.3.29), tibero, WebGL, <br>
+                        PdfJs, tui-chart</p>
                     </td>
                     <td style="width: 30%; text-align: right; vertical-align: top;">
                       <a href="#-curriculum-vitae" target="_blank" style="text-decoration: none;">
