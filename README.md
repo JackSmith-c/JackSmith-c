@@ -302,7 +302,7 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
                     <td style="width: 30%; text-align: right; vertical-align: top;">
                       <a href="https://github.com/YUNSUNGWOONG/knu_studycafe" target="_blank" style="text-decoration: none;">
                         <img src="https://github.com/user-attachments/assets/1be445f5-bccb-4715-80d1-f68b2542a20e" 
-                             alt="TurtleBot 이미지" width="250px"
+                             alt="TurtleBot 이미지" width="290px"
                              style="width: 60%; height: auto; border: 1px solid #ccc;">
                       </a>
                     </td>
