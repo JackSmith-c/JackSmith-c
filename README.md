@@ -1,245 +1,171 @@
-<div>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?tab=readme-ov-file&url=https%3A%2F%2Fgithub.com%2FJackSmith-c%2Fdailyco&count_bg=%23CE2EA2&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false" align="right" />
-  
+<div align="center">
+
+<img src="assets/banner.svg" alt="AUTONOMOUS PCC — Fisheye · LiDAR · V2X · Sensor Fusion" width="100%">
+
+### GPS가 닿지 않는 곳에서, 차가 스스로 내립니다.
+
+선박(PCC)·항만 환경의 GPS 음영 구간에서
+어안렌즈·라이다 융합 정밀 측위로 자율주행차의 **무인 하역과 주차**를 자동화합니다.
+
+[![Website](https://img.shields.io/badge/Website-autonomouspcc-0B1B33?style=flat-square)](https://d89yicdpi4w1g.cloudfront.net)
+[![Domain](https://img.shields.io/badge/Field-Ship%20%26%20Port%20Autonomy-1E6FD9?style=flat-square)](#)
+[![TRL](https://img.shields.io/badge/TRL-4~5-16A34A?style=flat-square)](#)
+[![Patents](https://img.shields.io/badge/Patents-3%20registered-7C3AED?style=flat-square)](#)
+
+<br>
+
+<img src="assets/hero.gif" alt="LiDAR point cloud fly-through of a parking structure" width="100%">
+
+<sub>실측 LiDAR 포인트클라우드로 재구성한 주차 구조물 — GPS 없이 인프라만으로 공간을 인식합니다.</sub>
+<sub>▶ [원본 영상 보기 (MP4)](https://d89yicdpi4w1g.cloudfront.net/videos/hero.mp4)</sub>
+
 </div>
 
-## 👩🏻‍💻 JackSmith | 문제해결을 즐기는 개발자
+---
 
-**안녕하세요, 문제해결을 즐기는 개발자 윤성웅 입니다.**
+## Why Now
 
-<details >
-<summary> 💻  저는 ______ 개발자 입니다. </summary><br/>
+자율주행차 수출은 급성장하는데, **배에 싣고 내리는 마지막 구간만 여전히 사람 손**에 있습니다.
 
-1. 문제해결을 즐기는
-2. 재사용성이 높고 직관적인 코드 작성에 신경쓰는
-3. 요구사항과 제약조건을 효율적으로 풀어내는데 관심이 많은
-4. 배운거는 무조건 써먹어봐야 직성이 풀리는
-5. 맛있는 커피 한잔과 함께할 동료만 있다면 무엇이든 도전하는
+| 문제 | 내용 |
+|---|---|
+| **GPS가 멈춘다** | PCC 선박의 두꺼운 강판과 협소한 선내 구조가 위성 신호를 차단합니다. 기존 GNSS 기반 자율주행이 작동하지 않습니다. |
+| **차마다 눈이 다르다** | 테슬라는 비전, BYD는 라이다 — 제조사별 인식 체계가 달라 단일 방식 관제로는 전 차종을 수용할 수 없습니다. |
+| **핸들이 사라진다** | 레벨 4 이상 완전 자율주행차에는 핸들이 없습니다. 운전 인력이 직접 이동·주차시키는 방식은 곧 불가능해집니다. |
 
-<br/>
-</details>
+> 우리는 차량이 아니라 **인프라**를 똑똑하게 만들어 이 문제를 풉니다.
+> 차량 사양에 관계없이, 항만과 선내 인프라가 위치를 계산하고 경로를 내려줍니다.
 
-<details >
-<summary> 📚  저는 이렇게 공부했습니다!</summary><br/>
+---
 
-- 경북대학교 전자공학부 (재학중)
-- 지능형 자동차 내부 네트워크 기술(CAN) 응용 실무(반도체설계교육센터, 2023.01)
-- 군 SW·AI 역량강화 인공지능 트랙(기본)(구름에듀, 2022.08~2022.09)
-- R3F를 이용한 인터렉티브 3D 가상환경 웹 개발 실무(한국메타버스산업협회, 2023.06)
-- V2X 통신에 대한 이해와 서비스 개발 실습(경북대학교 ICT 자동차융합연구센터, 2023.07)
-- 경북대학교 자율군집 소프트웨어 연구실 학생연구원 활동(2023.07~2024.06)
-- 경북대학교 ISPL 연구실 학부연구생 활동(2024.06~)
+## What We Build
 
-<br/>
+<div align="center">
+<img src="assets/architecture.svg" alt="Architecture: infra fisheye and LiDAR fuse into a positioning engine driving V2X control" width="100%">
+</div>
 
-</details>
+### 핵심 기술 5
 
+| # | 기술 | 설명 |
+|:--:|---|---|
+| 1 | **어안렌즈 2D–2D 영상 융합** | 인프라 어안렌즈 영상과 차량 어라운드뷰(AVM) 영상을 정밀 매칭해 비전 기반 인식 차량의 위치를 추정합니다. 왜곡 보정 학습 데이터로 사각지대 없는 탐지를 확보합니다. |
+| 2 | **2D–3D 영상·라이다 센서 퓨전** | 인프라 시각 정보와 3D LiDAR 포인트클라우드(PCD) 맵을 결합해 라이다 기반 인식 차량의 고정밀 공간 좌표를 확보합니다. |
+| 3 | **GPS 음영 정밀 측위** | 신호가 차단되는 선박·항만 내부에서 인프라 기반 하이브리드 관제로 실내 측위 오차 30.5cm 이내를 달성합니다. |
+| 4 | **V2X 인프라 관제** | 차량–인프라 양방향 통신과 SDV(소프트웨어 중심 차량) 연동으로 선적·하역 전 과정을 인프라가 통합 제어합니다. |
+| 5 | **융합 학습 데이터셋** | 어안렌즈(2D)·라이다(3D) 융합 데이터를 COCO·YOLO·PCD 표준 형식으로 구축·라벨링합니다. 얼굴·번호판 비식별 조치를 완료합니다. |
 
+### 솔루션
 
-<details >
-<summary> 👀  저는 이런 개발 경험이 있어요! </summary>
+- **Vision Positioning** — 어안렌즈 2D–2D 비전 측위
+- **Sensor Fusion** — 2D–3D 영상·라이다 통합 인식
+- **Autonomous Unloading** — 선박·항만 무인 하역 자동화
+- **Digital Twin PMS** — 디지털 트윈 기반 주차 최적화
 
-  ### 🔫  AgriBot : 자동화 작물공정 혁신 솔루션  [![link](https://user-images.githubusercontent.com/48382813/143898340-b7ca0e57-2c5c-4978-8987-01a0c605d0ae.png)](https://github.com/YUNSUNGWOONG/2024ESWContest_webOS_3012)
+---
 
-  > webOS의 제어아래에 ROS기반의 자동수확로봇인 HaviBot과 Yolo기반의 HueBot을 활용하여 수확부터 분류까지 전체과정을 완전자동화함.
-  <!--
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dailyco&repo=MAFIA31&cache_seconds=86400&theme=gruvbox">
-  -->
-  
-  - 개발 기간 : 2024.02 ~
-  - 사용 언어 및 기술 : python, ROS, C++
-  <br/>
+## Numbers
 
+<div align="center">
+<img src="assets/metrics.svg" alt="98% detection precision, 30.5cm positioning error, 67% faster unloading, 40% lower cost" width="100%">
+</div>
 
-  ### 🔫  TurtleBot : 터틀봇을 이용한 자율주행 차량 구현  [![link](https://user-images.githubusercontent.com/48382813/143898340-b7ca0e57-2c5c-4978-8987-01a0c605d0ae.png)](https://github.com/YUNSUNGWOONG/turtlebot_projects)
+고가 라이다 의존도를 낮추고 저비용 어안렌즈 인프라를 활용해, 기존 측위 방식 대비 설치·운영 비용을 40% 이상 절감합니다.
 
-  > ROS와 SLAM 등을 활용하여 시뮬레이션 학습과 모형 차량 학습을 수행
-  <!--
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dailyco&repo=MAFIA31&cache_seconds=86400&theme=gruvbox">
-  -->
-  
-  - 개발 기간 : 2024.02 ~
-  - 사용 언어 및 기술 : python, ROS, C++
-  <br/>
+---
 
-  ### 🔫  Luminocity : 유동인구를 활용한 옥외 광고 추천 솔루션 (2024 AWS Smart City Hackathon)  [![link](https://user-images.githubusercontent.com/48382813/143898340-b7ca0e57-2c5c-4978-8987-01a0c605d0ae.png)](https://github.com/YUNSUNGWOONG/Postech_hackathon_Luminocity)
+## Tech Stack
 
-  > AWS 유동인구 데이터를 활용한 옥외광고솔루션으로, 백엔드와 아키텍처 설계에 기여함.
-  <!--
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dailyco&repo=MAFIA31&cache_seconds=86400&theme=gruvbox">
-  -->
-  
-  - 개발 기간 : 2024.03 ~ 2024.03
-  - 사용 언어 및 기술 : Node.js, React, EC2, Simplify, S3 Storage
-  <br/>
-  
-  ### 🔫  DonkeyCar : 동키카를 이용한 자율주행 차량 구현  [![link](https://user-images.githubusercontent.com/48382813/143898340-b7ca0e57-2c5c-4978-8987-01a0c605d0ae.png)](https://github.com/YUNSUNGWOONG/donkeycar_projects)
+**Perception & Fusion**
+`Python` · `PyTorch` · `OpenCV` · `YOLO` · `Open3D` · `PCL` · `ROS 2`
 
-  > 텐서플로우와 케라스 등을 활용하여 시뮬레이션 학습과 모형 차량 학습을 수행
-  <!--
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dailyco&repo=MAFIA31&cache_seconds=86400&theme=gruvbox">
-  -->
-  
-  - 개발 기간 : 2023.08 ~
-  - 사용 언어 및 기술 : python, turbo framework, RaspberryPi4, Linux, putty, jenkins, Jira
-  <br/>
+**Simulation & Validation**
+`CARLA` · `AWSIM` · `Autoware`
 
-  ### 🔫  S32K144 : 엘리베이터 제작 및 구현  [![link](https://user-images.githubusercontent.com/48382813/143898340-b7ca0e57-2c5c-4978-8987-01a0c605d0ae.png)](https://github.com/YUNSUNGWOONG/S32K144EVB_TermProject)
+**Vehicle & Embedded**
+`AUTOSAR` · `SDV` · `V2X` · `C/C++` · `On-Device AI`
 
-  > uVision IDE를 활용하여 엘리베이터 기능 설계와 제작 및 테스트
-  <!--
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dailyco&repo=MAFIA31&cache_seconds=86400&theme=gruvbox">
-  -->
-  
-  - 개발 기간 : 2023.11 ~ 2023.12
-  - 사용 언어 및 기술 : C
-  <br/>
+**Standards**
+`ISO 26262` (기능 안전) · `ISO 21448` (SOTIF) · `COCO` / `YOLO` / `PCD`
 
-  ### 🔫  Autonomous monitoring system suitable for the autonomous driving era, PCSAPS : 보행자보호시스탬   [![link](https://user-images.githubusercontent.com/48382813/143898340-b7ca0e57-2c5c-4978-8987-01a0c605d0ae.png)](https://github.com/YUNSUNGWOONG/CreativeEngineeringDesign_TermProject)
+---
 
-  > <창의공학설계>수업에서 텀프로젝트로 제작한, 라즈베리파이와 아두이노를 활용한 PCSAPS(보행자보호시스템) 제작 및 구현
-  <!--
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dailyco&repo=MAFIA31&cache_seconds=86400&theme=gruvbox">
-  -->
-  
-  - 개발 기간 : 2023.11 ~ 2023.12
-  - 사용 언어 및 기술 : C, Python, OpenCV
-  <br/>
+## Repositories
 
-  ### 🥀  Knu_StudyCafe : 파이썬을 활용한 스터디카페 키오스크  [![link](https://user-images.githubusercontent.com/48382813/143898340-b7ca0e57-2c5c-4978-8987-01a0c605d0ae.png)](...)
+이 조직의 저장소는 다음 축으로 구성됩니다.
 
-  > 학부과정<파이썬 프로그래밍>수업에서 텀프로젝트로 제작한 스터디카페 키오스크
-<!--
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dailyco&repo=happy-ending&cache_seconds=86400&theme=gruvbox">
-  -->
-  
-  - 개발 기간 : 2023.06 ~ 2023.07
-  - 사용 언어 및 기술 : Python, tkinter
-  <br/>
-  
-  ### 🔫  Air Defense Control Command, Maintenance Case Management System : 방공관제사령부, 정비사례 관리체계
+| 영역 | 내용 |
+|---|---|
+| **Perception** | 어안렌즈 왜곡 보정, 객체 탐지, 2D–2D 매칭 파이프라인 |
+| **Fusion & Localization** | 영상–라이다 캘리브레이션, PCD 정합, 실내 측위 엔진 |
+| **Control & V2X** | 경로 추종, 차량–인프라 통신, SDV 인터페이스 |
+| **Dataset Tools** | 라벨링·검수 도구, 비식별 처리, 표준 포맷 변환기 |
+| **Simulation** | CARLA / AWSIM 기반 이종 차량 제어 알고리즘 검증 |
+| **Web** | 회사 소개 사이트 (Vite + React + Tailwind) |
 
-  > '방공관제사령부(現, 미사일방어사령부) 정비사례 관리체계’를 개발하여 방공관제사령부 예하 전대, 관제부대에 대한 <br/>
-  > “레이다 고장정비 종합관리”의 행정업무를 간소화하는데 기여함 
-  <!--
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dailyco&repo=MAFIA31&cache_seconds=86400&theme=gruvbox">
-  -->
-  
-  - 개발 기간 : 2022.6 ~ 2022.11
-  - 사용 언어 및 기술 : Java8, Spring(4.3.29), tibero, jquery, tui-chart
-  <br/>
+> 일부 저장소는 지식재산 보호 및 파트너 계약 사유로 비공개로 운영됩니다.
 
-  ### 🔫  Aviation Technology Research Institute, Aircraft Record Management System : 항공기술연구소, 항공기이력관리체계 (KT-100 Dis-Bonding 이력관리체계 + F-16계열 항공기 Damage Map)
+---
 
-  > 1>KT-100 Dis-Bonding 이력관리 체계를 개발하여 선제적인 정비강화와 다빈도 기골결함에 대해 신속히 조치할 수 있도록 기여함 <br/>
-  > 2>F-16 계열 항공기 Damage Map을 개발하여 선제적인 정비강화와 다빈도 기골결함에 대해 신속히 조치할 수 있도록 기여함
-  <!--
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dailyco&repo=MAFIA31&cache_seconds=86400&theme=gruvbox">
-  -->
-  
-  - 개발 기간 : 2022.1 ~ 2022.7
-  - 사용 언어 및 기술 : Java8, Spring(4.3.29), tibero, WebGL, PdfJs, tui-chart
-  <br/>
+## Milestones
 
-  ### 🔫  Logistics Command, Human rights level self-assessment system : 군수사령부, 인권수준자체진단체계 개발 
+| 시기 | 내용 |
+|---|---|
+| **2026.06** | 데이터바우처 지원사업 선정 — 과학기술정보통신부 |
+| **2026.05** | 창업중심대학 선정 — 중소벤처기업부 |
+| **2025.12** | AICOSS 산학협력 프로젝트 공모전 장려상 |
+| **2025.10** | 예비창업패키지(딥테크 분야) 선정 — 중소벤처기업부 |
+| **2025.03** | 한국형 아이코어(K-ICorps) 사업 선정 — 과학기술정보통신부 |
+| **2024.12** | SEEK SQUARE 2024 최우수상·인기상 |
+| **2024.11** | 임베디드SW경진대회 본선 진출 (5위) |
+| **2024.07** | ABEEK 포트폴리오 경진대회 우수상 |
+| **2024.06** | AWS 스마트시티 해커톤 본선 진출 (4위) |
 
-  > 인권수준 자체진단체계를 개발하여 코로나상황에 실무자들이 인권수준을 빠르게 조사하고 체계적으로 집계하는데 기여함 
+---
 
-  <!--
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dailyco&repo=MAFIA31&cache_seconds=86400&theme=gruvbox">
-  -->
-  
-  - 개발 기간 : 2021.6 ~ 2022.11
-  - 사용 언어 및 기술 : Java8, Spring(4.3.29), tibero, tui-chart
-  <br/>
+## Capability
 
-   ### 🔫  K-TCG : K-TCG 인터넷 홈페이지 유지보수 및 테스트
+- 자율주행·임베디드 전문 **7인 전담팀**
+- **TRL 4~5** 수준 시제품 보유
+- **CARLA · AWSIM** 기반 이종 차량 제어 알고리즘 검증 완료
+- 자율이동체 경로 추종 등 **특허 3건** 보유, 융합 데이터 위치 추정 시스템 추가 출원 예정
 
-  > K-TCG 인터넷 홈페이지를 유지보수에 기여하여 타국 항공기에 대한 선제적인 정비강화와 다빈도 기골결함에 대해 신속히 조치할 수 있도록 기여함 
+---
 
-  <!--
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dailyco&repo=MAFIA31&cache_seconds=86400&theme=gruvbox">
-  -->
-  
-  - 유지보수 및 테스트 기간 : 2021.5 ~ 2021.6
-  - 사용 언어 및 기술 : Jquery, WireShark
-  <br/>
-</details>
-<br/>
+## Roadmap
 
-## 👨🏻‍💻 Experience
-  - ``2021.03~2022.12`` Software Engineer - ROKAF Logistics Command Convergence Systems Department (Full-time)<br/>
-  - ``2023.01~2023.04`` DIGITAL MARKETING EXECUTIVE - TalkTalkLanguage(Academy)<br/>
-  - ``2023.03~`` Kyungpook National University, Department of Electronic Engineering(bachelor's degree course)<br/>
-  - ``2023.07~2024.06`` Student researcher - Autonomous Cluster SW Research Center<br/>
-  - ``2024.06~`` Undergraduate Research Student - ISPLIntelligent Signal Processing Laboratory<br/>
-  
-## 🛠 Skills
-### Frontend
-![HTML5] ![css] ![JavaScript] ![TypeScript] ![React] ![Sass]
+- [x] 어안렌즈 기반 실내 측위 프로토타입 (오차 30.5cm 이내)
+- [x] 이종 센서 차량 제어 알고리즘 시뮬레이션 검증
+- [ ] 2D–2D / 2D–3D 융합 학습 데이터셋 구축 및 공개
+- [ ] 항만 테스트베드 통합 운영 시스템 실증
+- [ ] ISO 26262 / 21448 기준 제어 알고리즘 고도화
+- [ ] 글로벌 PCTC 선사 대상 SaaS 관제 서비스 확장
 
-### Backend
-![Node.js][Node.js] ![MySQL][MySQL] ![MongoDB][MongoDB] ![NGINX][NGINX]
+---
 
-### Collaboration
-![Git][Git] ![GitHub][GitHub] ![GitHub Actions][GitHub Actions]  
-![Visual Studio Code][Visual Studio Code] ![Notion][Notion] ![Slack][Slack] ![Trello][Trello]
+## Open Data
 
-### Design
-![Figma][Figma] 
+선박 내부·지하 주차장 등 GPS 음영 환경의 자율주행 학습 데이터는 국내에 거의 없습니다.
+우리는 구축한 융합 데이터셋의 일부를 **연구기관·학계에 개방**하여 국가 자율주행 기술 자립에 기여하고자 합니다.
 
-<br/>
+- 어안렌즈(2D) · 라이다(3D) 융합 데이터, JSON/XML 메타데이터 라벨링 포함
+- 자율주행 표준 형식(COCO / YOLO / PCD) 채택
+- 얼굴·번호판 등 개인정보 비식별(블러·마스킹) 조치 완료 후 공개
+- 공공데이터포털 연계 및 오픈 API 제공 예정
 
-<!--
-## 📚 Github Stats
-<table>
-  <tr>
-    <td align="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=dailyco&show_icons=true&hide=contribs&cache_seconds=86400&theme=gruvbox&hide_border=true" alt="dailyco-github-status" align="left" style="width: 98%" />
-      </td>
-  </tr>
-</table>
--->
-<br/>
+---
 
-## 📜 Certifications
-1. 정보처리산업기사
-2. 네트워크관리사2급
-3. 행정관리사2,3급
+## Contact
 
-## 🖐 Blog
-(아래 블럭을 누르시면 해당링크로 이동하실 수 있습니다.)<br>
-(Click on the block below to go to the link.)<br><br>
-<a href="https://jacksmith-c.github.io/" target="_blank"><img src="https://img.shields.io/badge/Github_Blog-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a> : My CodingLog <br>
-<a href="https://blog.naver.com/yhon89" target="_blank"><img src="https://img.shields.io/badge/Naver(yhon89)-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"/></a> : My Diary Blog <br> 
-<a href="https://blog.naver.com/yhon89e" target="_blank"><img src="https://img.shields.io/badge/Naver(yhon89e)-E95420?style=for-the-badge&logo=MongoDB&logoColor=white"/></a> : My Learning Blog <br> 
-<a href="https://velog.io/@2170004487z/posts" target="_blank"><img src="https://img.shields.io/badge/Velog_(2170004487z)-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a> : My Embedded Blog <br>
-<a href="https://blex.me/@2170004487z" target="_blank"><img src="https://img.shields.io/badge/Blex_(2170004487z)-c110cc?style=for-the-badge&logo=Nuxt.js&logoColor=white"/></a> : My CS Blog<br>
-<a href="https://steemit.com/@yunsungwoong" target="_blank"><img src="https://img.shields.io/badge/Steemit_(2170004487z)-33cf98?style=for-the-badge&logo=velog&logoColor=white"/></a> : My Financial Blog<br>
-<a href="https://jack-channel-python.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-f1eb6e?style=for-the-badge&logo=PYTHON&logoColor=black"/></a> : My Python Blog <br>
-<br>
-## 📞 Contact
-<a href="mailto:2170004487b@gmail.com"><img src="https://img.shields.io/badge/2170004487b@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=black"/></a>
+<div align="center">
 
-[HTML5]: https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white
-[css]: https://img.shields.io/badge/css-686de0?style=for-the-badge&logo=css3&logoColor=white
-[JavaScript]: https://img.shields.io/badge/JavaScript-f9ca24?style=for-the-badge&logo=javascript&logoColor=white
-[TypeScript]: https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white
-[React]: https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=black
-[Sass]: https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white
+**(주)오토노머스피씨씨** · AUTONOMOUS PCC
 
-[Node.js]: https://img.shields.io/badge/Node.js-009432?style=for-the-badge&logo=Node.js&logoColor=white
-[Express]: https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white
-[MySQL]: https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white
-[Sequelize]: https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white
-[MongoDB]: https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white
-[NGINX]: https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white
+분야 · 선박·항만 자율주행 무인 하역 / 정밀 측위
+기술 · 어안렌즈·라이다 융합 데이터셋 · V2X 관제
 
-[Git]: https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white
-[GitHub]: https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white
-[GitHub Actions]: https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=GitHub-Actions&logoColor=white
-[Visual Studio Code]: https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white
-[Figma]: https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white
-[Notion]: https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white
-[Slack]: https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white
-[Trello]: https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=Trello&logoColor=white
+[![Email](https://img.shields.io/badge/Email-2170004487b%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2170004487b@gmail.com)
+[![Website](https://img.shields.io/badge/Website-Visit-0B1B33?style=for-the-badge)](https://d89yicdpi4w1g.cloudfront.net)
+
+기술 협업 · 실증 파트너십 · 채용 문의를 환영합니다.
+
+</div>
