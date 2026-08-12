@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200" role="img" aria-label="Key metrics: 98 percent detection precision, 30.5 cm indoor positioning error, 67 percent faster unloading, 40 percent lower cost">
+  <defs>
+    <linearGradient id="mbg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#03060F"/>
+      <stop offset="0.5" stop-color="#071426"/>
+      <stop offset="1" stop-color="#03060F"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="200" rx="14" fill="url(#mbg)"/>
+
+  <g stroke="#1E293B" stroke-width="1">
+    <path d="M300 44 V156"/><path d="M600 44 V156"/><path d="M900 44 V156"/>
+  </g>
+
+  <g font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" text-anchor="middle">
+    <text x="150" y="96" font-size="52" font-weight="700" fill="#22D3EE">98<tspan font-size="26" fill="#0E7490">%</tspan></text>
+    <text x="150" y="126" font-size="14" font-weight="600" fill="#94A3B8" letter-spacing="1">DETECTION PRECISION</text>
+    <text x="150" y="148" font-size="12" fill="#475569">객체 탐지 정밀도</text>
+
+    <text x="450" y="96" font-size="52" font-weight="700" fill="#4ADE80">30.5<tspan font-size="26" fill="#15803D">cm</tspan></text>
+    <text x="450" y="126" font-size="14" font-weight="600" fill="#94A3B8" letter-spacing="1">INDOOR POSITIONING ERROR</text>
+    <text x="450" y="148" font-size="12" fill="#475569">실내 측위 오차</text>
+
+    <text x="750" y="96" font-size="52" font-weight="700" fill="#A855F7">67<tspan font-size="26" fill="#6B21A8">%</tspan></text>
+    <text x="750" y="126" font-size="14" font-weight="600" fill="#94A3B8" letter-spacing="1">FASTER UNLOADING</text>
+    <text x="750" y="148" font-size="12" fill="#475569">하역 소요시간 단축</text>
+
+    <text x="1050" y="96" font-size="52" font-weight="700" fill="#FBBF24">40<tspan font-size="26" fill="#B45309">%</tspan></text>
+    <text x="1050" y="126" font-size="14" font-weight="600" fill="#94A3B8" letter-spacing="1">LOWER CAPEX / OPEX</text>
+    <text x="1050" y="148" font-size="12" fill="#475569">설치·운영비 절감</text>
+  </g>
+</svg>

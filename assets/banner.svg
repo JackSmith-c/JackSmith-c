@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230" role="img" aria-label="AUTONOMOUS PCC - Fisheye, LiDAR, V2X, Sensor Fusion">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#03060F"/>
+      <stop offset="0.55" stop-color="#071426"/>
+      <stop offset="1" stop-color="#02060E"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22D3EE"/>
+      <stop offset="0.5" stop-color="#4ADE80"/>
+      <stop offset="1" stop-color="#A855F7"/>
+    </linearGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="230" fill="url(#bg)"/>
+  <ellipse cx="960" cy="120" rx="380" ry="200" fill="url(#glow)"/>
+
+  <!-- scan grid -->
+  <g stroke="#22D3EE" stroke-opacity="0.10" stroke-width="1">
+    <path d="M700 230 L840 40"/><path d="M760 230 L880 40"/><path d="M820 230 L920 40"/>
+    <path d="M880 230 L960 40"/><path d="M940 230 L1000 40"/><path d="M1000 230 L1040 40"/>
+    <path d="M1060 230 L1080 40"/><path d="M1120 230 L1120 40"/>
+    <path d="M690 190 L1200 190"/><path d="M720 150 L1200 150"/>
+    <path d="M745 115 L1200 115"/><path d="M765 85 L1200 85"/><path d="M780 60 L1200 60"/>
+  </g>
+
+  <!-- point cloud dots -->
+  <g fill="#4ADE80">
+    <circle cx="812" cy="176" r="2.2" opacity=".9"/><circle cx="880" cy="160" r="1.8" opacity=".7"/>
+    <circle cx="948" cy="182" r="2.4" opacity=".85"/><circle cx="1016" cy="150" r="1.6" opacity=".6"/>
+    <circle cx="1084" cy="170" r="2" opacity=".75"/><circle cx="856" cy="126" r="1.6" opacity=".65"/>
+    <circle cx="1128" cy="132" r="1.8" opacity=".7"/>
+  </g>
+  <g fill="#22D3EE">
+    <circle cx="770" cy="150" r="2" opacity=".8"/><circle cx="905" cy="196" r="2.6" opacity=".9"/>
+    <circle cx="990" cy="120" r="1.6" opacity=".6"/><circle cx="1052" cy="200" r="2.2" opacity=".8"/>
+    <circle cx="930" cy="96" r="1.4" opacity=".55"/><circle cx="1160" cy="164" r="2" opacity=".7"/>
+  </g>
+  <g fill="#A855F7">
+    <circle cx="836" cy="206" r="1.8" opacity=".7"/><circle cx="1004" cy="88" r="1.4" opacity=".5"/>
+    <circle cx="1108" cy="102" r="1.6" opacity=".55"/><circle cx="964" cy="214" r="2" opacity=".75"/>
+  </g>
+
+  <!-- vehicle glyph -->
+  <g transform="translate(902,148)" opacity="0.95">
+    <rect x="-26" y="-11" width="52" height="22" rx="5" fill="none" stroke="#4ADE80" stroke-width="1.6"/>
+    <rect x="-14" y="-18" width="28" height="9" rx="3" fill="none" stroke="#4ADE80" stroke-width="1.4"/>
+    <circle cx="0" cy="0" r="40" fill="none" stroke="#22D3EE" stroke-width="1" stroke-opacity="0.5" stroke-dasharray="3 6"/>
+    <circle cx="0" cy="0" r="60" fill="none" stroke="#22D3EE" stroke-width="1" stroke-opacity="0.25" stroke-dasharray="3 8"/>
+  </g>
+
+  <!-- accent bar -->
+  <rect x="72" y="52" width="4" height="118" rx="2" fill="url(#accent)"/>
+
+  <text x="100" y="86" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="42" font-weight="700" fill="#F8FAFC" letter-spacing="5">AUTONOMOUS PCC</text>
+  <text x="102" y="118" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="600" fill="#22D3EE" letter-spacing="4.5">FISHEYE · LiDAR · V2X · SENSOR FUSION</text>
+  <text x="102" y="152" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="17" font-weight="500" fill="#94A3B8" letter-spacing="0.5">Autonomous unloading &amp; parking for ships and ports</text>
+  <text x="102" y="174" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="17" font-weight="500" fill="#94A3B8" letter-spacing="0.5">in GPS-denied environments.</text>
+
+  <rect x="0" y="226" width="1200" height="4" fill="url(#fade)"/>
+</svg>
